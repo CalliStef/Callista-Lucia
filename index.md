@@ -48,9 +48,6 @@ No prerequisite knowledge is required in following this documentation. Figma is 
 
 <img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">&nbsp;&nbsp; **Note**: <br>
 &nbsp;&nbsp;Figma can also be **[downloaded](https://www.figma.com/downloads/)** locally on your computer or on mobile. 
-  
-<br>
-
 
 Although, Figma works on most operating systems that runs a browser. These operating systems include those of Macs, Linux machines, Windows, and even ChromeOS. 
 
