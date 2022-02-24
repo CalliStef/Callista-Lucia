@@ -76,18 +76,20 @@ Although, Figma works on most operating systems that runs a browser. These opera
   
 <br>
   
-<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/512/1680/1680214.png" alt="warning-icon-png"> &nbsp;&nbsp;**Warning**: 
-  The icon signifies that the following text must be read before proceeding.
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/512/1680/1680214.png" alt="warning-icon-png"> &nbsp;&nbsp;**Warning**: <br>
+&nbsp;&nbsp;The icon signifies that the following text must be read before proceeding.
 
 <br>
 
-<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">&nbsp;&nbsp; **Note**: 
-  The icon signifies that the following text is an additional information or tips.
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
+&nbsp;&nbsp; **Note**: <br>
+&nbsp;&nbsp;The icon signifies that the following text is an additional information or tips.
   
 <br>
   
-<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" alt="note-icon-png">&nbsp;&nbsp; **Success**: 
-  The icon signifies that you've successfully reached the goal of the step.
+<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" alt="note-icon-png">
+&nbsp;&nbsp; **Success**: <br>
+&nbsp;&nbsp;The icon signifies that you've successfully reached the goal of the step.
   
 <br>
 
