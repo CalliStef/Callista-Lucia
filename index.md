@@ -11,7 +11,7 @@ permalink: /
 
 Welcome to <user documentation name>! In this documentation, we will guide you through all the steps in creating your first mockup in Figma. Additionally, we will utilize the tools that Figma has provided, which will help in widening your perspective in the world of design.
 
->**[Figma](https://www.figma.com/about/)** is a free web-based design application that focuses on having design accessible for any user >when collaborating on a project. 
+>**[Figma](https://www.figma.com/about/)** is a free web-based design application that focuses on having design accessible for any user when collaborating on a project. 
 {: .fs-6 .fw-300 }
 
 [//]: # [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -44,7 +44,7 @@ No prerequisite knowledge is required in following this documentation. Figma is 
 
 ## Technical Requirements
 
->Note: Figma can also be **[downloaded](https://www.figma.com/downloads/)** locally on your ?>computer or on mobile. 
+>Note: Figma can also be **[downloaded](https://www.figma.com/downloads/)** locally on your computer or on mobile. 
 
 Although, Figma works on most operating systems that runs a browser. These operating systems include those of Macs, Linux machines, Windows, and even ChromeOS. 
 
