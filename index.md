@@ -6,10 +6,12 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Introduction
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted.
+Welcome to <user documentation name>! In this documentation, we will guide you through all the steps in creating your first mockup in Figma. Additionally, we will utilize the tools that Figma has provided, which will help in widening your perspective in the world of design.
+
+>Figma is a free web-based design application that focuses on having design accessible for any user when collaborating on a project. 
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
