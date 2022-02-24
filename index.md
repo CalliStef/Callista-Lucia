@@ -43,8 +43,14 @@ This document is for the following users:
 No prerequisite knowledge is required in following this documentation. Figma is made to be easy yet professional-looking.
 
 ## Technical Requirements
+  
+<br>
 
->Note: Figma can also be **[downloaded](https://www.figma.com/downloads/)** locally on your computer or on mobile. 
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">&nbsp;&nbsp; **Note**: <br>
+&nbsp;&nbsp;Figma can also be **[downloaded](https://www.figma.com/downloads/)** locally on your computer or on mobile. 
+  
+<br>
+
 
 Although, Figma works on most operating systems that runs a browser. These operating systems include those of Macs, Linux machines, Windows, and even ChromeOS. 
 
