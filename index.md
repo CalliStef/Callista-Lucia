@@ -14,7 +14,7 @@ Welcome to <user documentation name>! In this documentation, we will guide you t
 >Figma is a free web-based design application that focuses on having design accessible for any user when collaborating on a project. 
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[//]: # [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
