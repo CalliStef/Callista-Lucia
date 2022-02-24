@@ -11,88 +11,79 @@ permalink: /
 
 Welcome to <user documentation name>! In this documentation, we will guide you through all the steps in creating your first mockup in Figma. Additionally, we will utilize the tools that Figma has provided, which will help in widening your perspective in the world of design.
 
->Figma is a free web-based design application that focuses on having design accessible for any user when collaborating on a project. 
+>**[Figma](https://www.figma.com/about/)** is a free web-based design application that focuses on having design accessible for any user >when collaborating on a project. 
 {: .fs-6 .fw-300 }
 
 [//]: # [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Getting started
+## Table of Contents
 
-### Dependencies
+1. Intended Users
+2. Prerequisite Knowledge
+3. Technical Requirements
+4. Typographical Convention
+5. Document Overview
+6. Notes and Warning Messages
+  
+---
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
-
-### Quick start: Use as a GitHub Pages remote theme
-
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
-
-### Local installation: Use the gem-based theme
-
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
-
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
-
-### Configure Just the Docs
-
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+## Intended Users
+  
+This document is for the following users:
+- Beginner designers that are new to using Figma
+- Intermediate designers who would like to utilize more of the advanced features that Figma provides
+- A team of designers who are working on creating their first mockup application.
 
 ---
 
-## About the project
+## Pre-requisite Knowledge
 
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
+No prerequisite knowledge is required in following this documentation. Figma is made to be easy yet professional-looking.
 
-### License
+## Technical Requirements
 
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+>Note: Figma can also be **[downloaded](https://www.figma.com/downloads/)** locally on your ?>computer or on mobile. 
 
-### Contributing
+Although, Figma works on most operating systems that runs a browser. These operating systems include those of Macs, Linux machines, Windows, and even ChromeOS. 
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
+>In organizations, most designers use Macs while developers use Windows. Figma helps bring these >groups together
 
-#### Thank you to the contributors of Just the Docs!
+---
+  
+## Typographical Conventions
+  
+| Convention  | Typeface  |  Examples | 
+|---|---|---|
+| Figma Tools  | **bold**  |  **Frame**, **Design a Prototype**, **Text** | 
+| Action Items  | *Italics*  | *click*, *hold*, *drag*  | 
+  
+  
+---
+  
+## Document Overview
+  
+ 1. Pages vs Frames
+ 2. Community Files & Plug In Features
+ 3. Components & Instances
+ 4. Prototyping Elements
+ 5. Exporting & Finalizing Mockups
+  
+---
+  
+## Notes and Warning Messages  
+  
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/512/1680/1680214.png" alt="warning-icon-png"> **Warning**: The icon signifies that the following text must be read before proceeding.
 
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
+<br>
 
-### Code of Conduct
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png"> **Note**: The icon signifies that the following text is an additional information or tips.
+  
+<br>
+  
+<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" alt="note-icon-png"> **Success**: The icon signifies that you've successfully reached the goal of the step.
+  
+<br>
 
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+  
