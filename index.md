@@ -54,7 +54,7 @@ No prerequisite knowledge is required in following this documentation. Figma is 
 
 Although, Figma works on most operating systems that runs a browser. These operating systems include those of Macs, Linux machines, Windows, and even ChromeOS. 
 
->In organizations, most designers use Macs while developers use Windows. Figma helps bring these >groups together
+>In organizations, most designers use Macs while developers use Windows. Figma helps bring these groups together
 
 ---
   
