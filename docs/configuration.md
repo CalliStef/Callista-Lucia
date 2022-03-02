@@ -3,14 +3,14 @@ layout: default
 title: Creating & Using Frames
 nav_order: 2
 description: "Learn how to use and create frames in Figma"
-permalink: ../docs/configuration
+permalink: /docs/configuration
 ---
 
-# Configuration
+# Creating & Using Frames
 {: .no_toc }
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+Frames are one of the most foundational elements of Figma. They can serve as the container or viewport holding your app’s design components, but can also be a component in your design itself. In the coming section, we will be creating our first frame on Figma and getting our workspace ready to be worked with.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -25,14 +25,14 @@ Just the Docs has some specific configuration parameters that can be defined in 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
 
-## Site logo
+## Creating Your First Frame on Figma
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/just-the-docs.png"
 ```
 
-## Search
+## Renaming a Frame
 
 ```yaml
 # Enable or disable the site search
@@ -64,7 +64,7 @@ search:
   button: false
 ```
 
-## Aux links
+## Duplicating a Frame
 
 ```yaml
 # Aux links for the upper right navigation
