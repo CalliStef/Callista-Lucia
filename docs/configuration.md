@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Let's see if this loads
+title: Creating & Using Frames
 nav_order: 2
+description: "Learn how to use and create frames in Figma"
+permalink: docs/configuration
 ---
 
 # Configuration
