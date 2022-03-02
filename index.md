@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Home Test1
+title: Home Test2
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on Github Pages."
-permalink:
+baseurl: "/Callista-Lucia"
+url: "https://callistef.github.io"
 ---
 
 # Introduction
