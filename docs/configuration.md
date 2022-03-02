@@ -53,10 +53,13 @@ Frames are one of the most foundational elements of Figma. They can serve as the
 
 **3.** Type “Login” for the first frame and click enter to confirm the change.
 
-![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3.png?raw=true)
+Typing             |  Confirmed Name Change
+:-------------------------:|:-------------------------:
+![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3.png?raw=true)  |  ![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3_2.png?raw=true)
+ 
 
-![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3_2.png?raw=true)
-
+<!-- ![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3_2.png?raw=true)
+ -->
 ## Task 1.3 - Duplicating a Frame
 
 **1.** Right click on the “Login” frame itself, making sure a blue border forms around the frame. Then, click the first option “Copy”.
