@@ -20,18 +20,25 @@ Frames are one of the most foundational elements of Figma. They can serve as the
 
 ---
 
+## 1.1 Creating Your First Frame on Figma
+**1.** To start your new design project, click on the “New design file” button inside the Dashboard. 
+![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1img1.png)
 
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
+**2.** Inside of your new work area, you will be presented with a navigation menu containing eight icons. Click on the grid-like icon highlighted in blue below. 
 
+![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1img2.png)
 
-## Creating Your First Frame on Figma
-**1.1** Creating Your First Frame On Figma
-![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/just-the-docs.png?raw=true)
+**3.** You will notice a new side panel appear on the right side of the work area. These are the preset frame sizes Figma offers to match the dimensions of most devices. Make sure you are in the Design tab, and then click on the “iPhone 11 Pro Max” item from the Phone drop-down.
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: /assets/images/just-the-docs.png
-```
+![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_img3.png)
+
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">&nbsp;&nbsp; **Note**:
+&nbsp;&nbsp;If a drop-down menu appears, it means you have clicked on the drop-down arrow instead. Click on the first option “Frame” to continue.
+
+**4.** Your work area should now have a frame that looks like the one in the figure below.
+
+![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1img4.png)
+
 
 ## Renaming a Frame
 
