@@ -20,7 +20,7 @@ Frames are one of the most foundational elements of Figma. They can serve as the
 
 ---
 
-## 1.1 Creating Your First Frame on Figma
+## Task 1.1 Creating Your First Frame on Figma
 **1.** To start your new design project, click on the “New design file” button inside the Dashboard. 
 ![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/just-the-docs.png?raw=true)
 
@@ -40,49 +40,19 @@ Frames are one of the most foundational elements of Figma. They can serve as the
 ![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1img4.png?raw=true)
 
 
-## Renaming a Frame
+## Task 1.2 - Renaming a Frame
 
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
+**1.** Right click on the name of the desired frame on the left-side panel to activate its context menu. The name should have a blue background color once selected.
 
-search:
-  # Split pages into sections that can be searched individually
-  # Supports 1 - 6, default: 2
-  heading_level: 2
-  # Maximum amount of previews per search result
-  # Default: 3
-  previews: 3
-  # Maximum amount of words to display before a matched word in the preview
-  # Default: 5
-  preview_words_before: 5
-  # Maximum amount of words to display after a matched word in the preview
-  # Default: 10
-  preview_words_after: 10
-  # Set the search token separator
-  # Default: /[\s\-/]+/
-  # Example: enable support for hyphenated search words
-  tokenizer_separator: /[\s/]+/
-  # Display the relative url in search results
-  # Supports true (default) or false
-  rel_url: true
-  # Enable or disable the search button that appears in the bottom right corner of every page
-  # Supports true or false (default)
-  button: false
-```
+**2.** Select the Rename option highlighted below. 
 
-## Duplicating a Frame
+**3.** Type “Login” for the first frame and click enter to confirm the change.
 
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+## Task 1.3 - Duplicating a Frame
 
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
-```
+**1.** Right click on the “Login” frame itself, making sure a blue border forms around the frame. Then, click the first option “Copy”.
+
+**2.** Right click on an area off of the frame and select the option “Paste here”.
 
 ## Heading anchor links
 
