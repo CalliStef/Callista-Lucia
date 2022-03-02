@@ -26,6 +26,8 @@ View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/
 
 
 ## Creating Your First Frame on Figma
+**1.1** Creating Your First Frame On Figma
+![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/just-the-docs.png?raw=true)
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
