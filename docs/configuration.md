@@ -10,6 +10,7 @@ permalink: /docs/configuration
 {: .no_toc }
 
 Frames are one of the most foundational elements of Figma. They can serve as the container or viewport holding your app’s design components, but can also be a component in your design itself. In the coming section, we will be creating our first frame on Figma and getting our workspace ready to be worked with.
+
 {: .fs-6 .fw-300 }
 
 ## Table of contents
