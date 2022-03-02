@@ -3,7 +3,7 @@ layout: default
 title: Creating & Using Frames
 nav_order: 2
 description: "Learn how to use and create frames in Figma"
-permalink: docs/configuration
+permalink: ../docs/configuration
 ---
 
 # Configuration
