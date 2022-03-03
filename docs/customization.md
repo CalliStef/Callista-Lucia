@@ -180,26 +180,11 @@ Or you can click on the arrow icon beside your starting flow.
 
 Your mockup now should work the same way as the video below!
 
-<br>
-
-<!-- <video width="320" height="240" autoplay loop>
-  <source src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video> -->
-
-<!-- <video src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.mp4?raw=true" autoplay loop>
-Your browser does not support the video tag
-</video> -->
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.gif?raw=true" alt="Prototype_Final_Video" width="200" height="100">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.gif?raw=true" alt="Prototype_Final_Video" width="400" height="200">
 </div> 
-<br>
-
-<!-- 
-![Prototype Video](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.gif?raw=true) -->
-
 <br>
 
 <div style="background-color: #c1e2be; padding: 14px; border-radius: 4px; color: black" >
