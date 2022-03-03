@@ -96,7 +96,7 @@ Make sure the blue border wraps around all parts of the illustration, not just p
 </div>
 <br>
 
-**3.** Return back to your Mockup file on Figma, and paste the content there by _right clicking_ on the “Login” frame and selecting the “Paste here” option. 
+**3.** Return back to your **Mockup file** on Figma, and paste the content there by _right clicking_ on the “Login” frame and selecting the “Paste here” option. 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img3.png?raw=true" width="350" />
