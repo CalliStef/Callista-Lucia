@@ -114,7 +114,7 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 **3.** Double click on our current text box to edit the text contents, and select the word “Mori”. 
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img3.png?raw=true" width="400" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img3.png?raw=true" width="300" />
 </div>
 <br>
 
@@ -128,7 +128,7 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 **5.** Your sentence should now look like the image below. 
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img5.png?raw=true" width="350" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img5.png?raw=true" width="250" />
 </div>
 <br>
 
@@ -141,6 +141,8 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 </div>
 <br>
 
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
+
 **Note**:
 &nbsp;&nbsp;
 these numbers may be different from yours.
@@ -148,21 +150,21 @@ these numbers may be different from yours.
 
 **2.** Click on the **X** value and type “39”.
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img2.png?raw=true" width="300" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img2.png?raw=true" width="200" />
 </div>
 <br>
 
 **3.** Click on the **Y** value and type “65”.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img3.png?raw=true" width="300" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img3.png?raw=true" width="200" />
 </div>
 <br>
 
 **4.** Your frame should now look like the image below.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img4.png?raw=true" width="350" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img4.png?raw=true" width="330" />
 </div>
 <br>
 
