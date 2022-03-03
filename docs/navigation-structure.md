@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Figma Community Files & Plugins
+title: Community Files & Plugins
 nav_order: 5
 ---
 
