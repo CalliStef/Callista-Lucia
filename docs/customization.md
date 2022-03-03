@@ -46,7 +46,7 @@ After setting our starting page, let’s start prototyping our **components**! F
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/02_prototype_redirect_connection.png?raw=true" alt="signUp_button" width="200" height="200">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/02_prototype_redirect_connection.png?raw=true" alt="signUp_button" width="300" height="300">
 </div> 
 <br>
 
@@ -68,7 +68,7 @@ Remember the plug-in we had to install called **iconify**? We will now be using 
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/03_prototype_iconify.png?raw=true" alt="navigating_to_iconify" width="200" height="200">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/03_prototype_iconify.png?raw=true" alt="navigating_to_iconify" width="300" height="300">
 </div> 
 <br>
 
@@ -76,7 +76,7 @@ Remember the plug-in we had to install called **iconify**? We will now be using 
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/04_prototype_iconify_search_bar.png?raw=true" alt="iconify_searchBar" width="300" height="50">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/04_prototype_iconify_search_bar.png?raw=true" alt="iconify_searchBar" width="400" height="100">
 </div> 
 <br>
 
