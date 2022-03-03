@@ -164,7 +164,7 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 **4.** Your frame should now look like the image below.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img4.png?raw=true" width="330" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img4.png?raw=true" height="700" />
 </div>
 <br>
 
