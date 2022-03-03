@@ -26,7 +26,7 @@ Frames are one of the most foundational elements of Figma. They can serve as the
 
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1img1.png?raw=true" width="400" alt="new design file button"/>
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1img1.png?raw=true" width="550" alt="new design file button"/>
 </div>
 <br>
 
@@ -76,10 +76,10 @@ Frames are one of the most foundational elements of Figma. They can serve as the
 
 <div align="center">
  
-Typing             |  Confirmed Name Change
+Typing            |  Confirmed Name Change
 :-------------------------:|:-------------------------:
-![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3.png?raw=true) |  ![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3_2.png?raw=true)
- 
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3.png?raw=true" width="250" /> |  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3_2.png?raw=true" width="250" />
+
 </div>
 <br>
 
