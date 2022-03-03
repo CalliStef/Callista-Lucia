@@ -111,7 +111,7 @@ Make sure the blue border wraps around all parts of the illustration, not just p
 **5.** Your “Login” frame should now look like the figure below.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img5.png?raw=true" width="350" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.2_img5.png?raw=true" width="300" />
 </div>
 <br>
 
@@ -155,4 +155,31 @@ Man Walking Vector             |  Woman Standing Vector     |  Man Sitting Vecto
 
 ## Task 3.4 - Downloading Iconify Figma Plugin
 
-**1.** 
+**1.** Once again, access the **Main Menu** options by clicking on the first icon in the **Navigation Menu**, and select "Plugins", and then "Browse Plugins in Community". Reference Task 3.1 for assistance.
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img5.png?raw=true" width="300" />
+</div>
+<br>
+
+**2.** From the Community page, type "Iconify" in the Search Bar. 
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img5.png?raw=true" width="300" />
+</div>
+<br>
+**3.** Make sure you are in the "Plugins" section this time. 
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img5.png?raw=true" width="300" />
+</div>
+<br>
+
+**4.** Click the first option shown below. 
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img5.png?raw=true" width="300" />
+</div>
+<br>
+
+
+
+
