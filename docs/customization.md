@@ -19,7 +19,7 @@ In this section, we will prototype our To-do app. By the end of this section, yo
 
 ---
 
-## Task 1: Set Your Starting Page
+## Task 1 - Set Your Starting Page
 
 Before we begin prototyping, let’s start by choosing which page will be your starting point. By setting a starting page, users will be directed to that particular page first before any other. For this mockup, we will set the log-in frame as our starting page.
 
@@ -35,7 +35,7 @@ This will automatically assign the frame as the first flow.
 	
 > A flow is the network of frames and connections on a single page.
 
-## Task 2: Prototype The Button to naviagte to a different page
+## Task 2 - Prototype The Button to naviagte to a different page
 
 After setting our starting page, let’s start prototyping our **components**! For this mockup, let’s prototype the log-in button so that when it is *clicked*, it will redirect us to the **User Dashboard** page. 
 
@@ -58,7 +58,7 @@ Notice that a popup window appeared from the right panel once you created the co
 
 
 
-## Task 3: State Change Design
+## Task 3 - State Change Design
 
 Before we start prototyping our checkboxes, we will need to add another component that would show the changes when those checkboxes are clicked. 
 
@@ -107,7 +107,7 @@ Remember the plug-in we had to install called **iconify**? We will now be using 
 
 **3.8** Rename the icon to “checked”
 
-## Task 4: Prototype checkboxes buttons
+## Task 4 - Prototype checkboxes buttons
 
 Remember the **main component** we created from the **Components and Instances** page? We will now prototype the main component and connect it with the icon we just created.
 
@@ -158,7 +158,7 @@ Since we prototyped on a master component, all the other checkbox components on 
 
 
 
-## Task 5: Present Your Prototype
+## Task 5 - Present Your Prototype
 
 Now that we’ve prototyped our mockup, let’s see how it works! There are two ways to present a mockup in Figma. First, you can *click* the arrow icon on the top right of the screen.
 
