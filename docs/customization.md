@@ -76,7 +76,7 @@ Remember the plug-in we had to install called **iconify**? We will now be using 
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/04_prototype_iconify_search_bar.png?raw=true" alt="iconify_searchBar" width="400" height="50">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/04_prototype_iconify_search_bar.png?raw=true" alt="iconify_searchBar" width="300" height="50">
 </div> 
 <br>
 
@@ -125,7 +125,7 @@ Now your main component should look something like below.
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/08_prototype_unchecked_as_variant.png?raw=true" alt="unchecked_as_variant" width="200" height="500">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/08_prototype_unchecked_as_variant.png?raw=true" alt="unchecked_as_variant" width="200" height="300">
 </div> 
 <br>
 
@@ -133,7 +133,7 @@ Now your main component should look something like below.
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/09_prototype_toggle_variant.png?raw=true" alt="toggle_variant" width="200" height="400">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/09_prototype_toggle_variant.png?raw=true" alt="toggle_variant" width="200" height="300">
 </div> 
 <br>
 
@@ -147,7 +147,7 @@ We will now be using them for this step so that users can toggle between complet
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/10_prototype_toggle_connection.png?raw=true" alt="toggle_prototype_connection" width="200" height="400">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/10_prototype_toggle_connection.png?raw=true" alt="toggle_prototype_connection" width="200" height="300">
 </div> 
 <br>
 
@@ -180,10 +180,14 @@ Or you can click on the arrow icon beside your starting flow.
 
 Your mockup now should work the same way as the video below!
 
+<br>
+
 <video width="320" height="240" autoplay loop>
   <source src="mhttps://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
+
+<br>
 
 <div style="background-color: #c1e2be; padding: 14px; border-radius: 4px; color: black" >
 <img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png?raw=true" alt="note-icon-png"> <strong> Success: </strong> <br>
