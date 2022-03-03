@@ -183,7 +183,7 @@ Your mockup now should work the same way as the video below!
 <br>
 
 <video width="320" height="240" autoplay loop>
-  <source src="mhttps://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.mp4" type="video/mp4" />
+  <source src="mhttps://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.mp4?raw=true" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
