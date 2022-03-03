@@ -52,7 +52,7 @@ Frames are one of the most foundational elements of Figma. They can serve as the
 **4.** Your work area should now have a frame that looks like the one in the figure below.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1img4.png?raw=true" height="600" width=auto />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1img4.png?raw=true" height="500" width=auto />
 </div>
 <br>
 
@@ -68,17 +68,17 @@ Frames are one of the most foundational elements of Figma. They can serve as the
 **2.** Select the Rename option highlighted below. 
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img2.png?raw=true" height="350" width=auto />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img2.png?raw=true" width="250" />
 </div>
 <br>
 
 **3.** Type “Login” for the first frame and click enter to confirm the change.
 
-<div align="center" height="200">
+<div align="center">
  
 Typing             |  Confirmed Name Change
 :-------------------------:|:-------------------------:
-![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3.png?raw=true)  |  ![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3_2.png?raw=true)
+![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3.png?raw=true) | ![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3_2.png?raw=true)
  
 </div>
 <br>
@@ -88,7 +88,7 @@ Typing             |  Confirmed Name Change
 **1.** Right click on the “Login” frame itself, making sure a blue border forms around the frame. Then, click the first option “Copy”.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1.3_img1.png?raw=true" height="350" width=auto />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1.3_img1.png?raw=true" height="300" width=auto />
 </div>
 <br>
 
