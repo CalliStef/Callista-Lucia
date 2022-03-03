@@ -16,6 +16,8 @@ Figma has a whole range of components, from buttons to layouts. For this documen
 > 1. A **Main Component** defines the properties of the Component.
 > 2. An **Instance** is a copy of the Component you can reuse in your designs. Instances are linked to the main Component and receive any updates made to the Component.
 
+<br> 
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -30,19 +32,20 @@ Figma has a whole range of components, from buttons to layouts. For this documen
    
 <br>   
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/01_components_shape_tool.png?raw=true" alt="Shape Tool" >
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/01_components_shape_tool.png?raw=true" alt="Shape Tool" width="400" height="50" >
 </div>
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/02_components_rectangle_option.png?raw=true" alt="Rectangle Option" width="400" height="400">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/02_components_rectangle_option.png?raw=true" alt="Rectangle Option" width="200" height="200">
 </div> 
 <br>
 
    **1.2** Once you’ve done this, your pointer now should now be shaped similar to a plus sign (+), which means, you’re now ready to create the shape.
 
-   **1.3** Now, with your pointer, in the log-in frame, below the sentence, “Mori is a simple To-Do list…,” hold and drag to create a rectangle. Let go of your hold once you’re done.
-   On the right-hand panel, under “Design,” set the following changes:
+   **1.3** Now, with your pointer, in the log-in frame, below the sentence, “Mori is a simple To-Do list…,” *hold* and *drag* to create a rectangle. Let go of your *hold* once you’re done.
+   
+On the right-hand panel, under “Design,” set the following changes:
 * X-position: 84
 * Y-position: 699
 * W: 236
@@ -52,7 +55,7 @@ Figma has a whole range of components, from buttons to layouts. For this documen
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/03_components_button1_design_Settings.png?raw=true" alt="button1_design_settings" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/03_components_button1_design_Settings.png?raw=true" alt="button1_design_settings" width="200" height="500">
 </div> 
 <br>
 
@@ -60,19 +63,19 @@ Now your button should look something like the picture below! Isn’t it pretty?
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/04_components_button1.png?raw=true" alt="button1" width="400" height="400">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/04_components_button1.png?raw=true" alt="button1" width="200" height="200">
 </div> 
 <br>
 
-  **1.4** Let’s add text to the button! Remember what we learned from the previous step? Click on the Text tool on the left of the toolbar.
+  **1.4** Let’s add text to the button! Remember what we learned from the previous step? Click on the **Text tool** on the left of the toolbar.
   
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/05_components_text_tool.png?raw=true" alt="text_tool">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/05_components_text_tool.png?raw=true" alt="text_tool" width="400" height="50">
 </div> 
 <br>
 
-Now, your pointer should change to that of the icon! Add text to the button by clicking on the middle of the button, then type “Log In.”
+Now, your pointer should change to that of the icon! Add text to the button by *clicking* at the center of the button, then type “Log In.”
 		
 On the right-hand panel under **Design** set the following changes:
 * X-position: 159
@@ -84,7 +87,7 @@ On the right-hand panel under **Design** set the following changes:
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/06_components_text_settings.png?raw=true" alt="text_settings" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/06_components_text_settings.png?raw=true" alt="text_settings" width="200" height="500">
 </div> 
 <br>
 
@@ -104,7 +107,7 @@ Now, *right-click* on the element and select **Group Selection**.
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/07_components_group_selection.png?raw=true" alt="group_selection" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/07_components_group_selection.png?raw=true" alt="group_selection" width="200" height="500">
 </div> 
 <br>
 
@@ -130,7 +133,7 @@ Change the text of the second group to “Sign up.”
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/09_components_logIn:SignUp_buttons.png?raw=true" alt="signUp_button" width="400" height="400">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/09_components_logIn:SignUp_buttons.png?raw=true" alt="signUp_button" width="200" height="200">
 </div> 
 <br>
 
@@ -142,7 +145,7 @@ Congratulations on making it this far! Now we have two button components on our 
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/10_components_shape1.png?raw=true" alt="shape1" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/10_components_shape1.png?raw=true" alt="shape1" width="200" height="500">
 </div> 
 <br>
 
@@ -156,7 +159,7 @@ On the right-hand panel, set its design settings to the following:
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/11_components_shape1_design_settings.png?raw=true" alt="shape1_design_settings" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/11_components_shape1_design_settings.png?raw=true" alt="shape1_design_settings" width="200" height="500">
 </div> 
 <br>
 
@@ -173,7 +176,7 @@ We will leave this shape as it is for now. Don’t worry, on the next page/step 
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/12_components_shape2_settings.png?raw=true" alt="shape2_design_settings" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/12_components_shape2_settings.png?raw=true" alt="shape2_design_settings" width="200" height="500">
 </div> 
 <br>
 
@@ -182,7 +185,7 @@ Your **User Dashboard** frame should look like the image below!
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_components_bothShapes.png?raw=true" alt="completeLook_of_UserDashboard" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_components_bothShapes.png?raw=true" alt="completeLook_of_UserDashboard" width="200" height="500">
 </div> 
 <br>
 
@@ -201,7 +204,7 @@ Let’s start creating checkboxes for our tasks list! We will be doing this on t
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/14_components_unchecked_design_settings.png?raw=true" alt="completeLook_of_UserDashboard" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/14_components_unchecked_design_settings.png?raw=true" alt="completeLook_of_UserDashboard" width="200" height="500">
 </div> 
 <br>
 
@@ -210,7 +213,7 @@ Your rectangular box should look like the image below.
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/18_components_unchecked_box.png?raw=true" alt="component_icon" width="400" height="400">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/18_components_unchecked_box.png?raw=true" alt="component_icon" width="200" height="200">
 </div> 
 <br>
 
@@ -218,7 +221,7 @@ Your rectangular box should look like the image below.
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/15_components_componentIcon.png?raw=true" alt="component_icon" >
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/15_components_componentIcon.png?raw=true" alt="component_icon" width="400" height="50">
 </div> 
 <br>
 
@@ -230,7 +233,6 @@ Your rectangular box should look like the image below.
 <br>
 
 
-
 Rename your new component to “unchecked/Default”
 
 **3.3** When copying from a **main component**, those pasted elements are called **instances**. These **instances** are connected to the **main component’s** design.  Any changes created on the **main component** will affect all of its **instances**.
@@ -240,7 +242,7 @@ Copy-paste your component 5 times into the **User Dashboard** frame.
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/19_components_main_instances.png?raw=true" alt="main_components_and_instances" width="400" height="400">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/19_components_main_instances.png?raw=true" alt="main_components_and_instances" width="200" height="200">
 </div> 
 <br>
 
@@ -255,7 +257,7 @@ Copy-paste your component 5 times into the **User Dashboard** frame.
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/16_components_taskItems_text_settings.png?raw=true" alt="task_text_settings" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/16_components_taskItems_text_settings.png?raw=true" alt="task_text_settings" width="200" height="500">
 </div> 
 <br>
 
@@ -263,7 +265,7 @@ Here's the final look of our task list!
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/20_components_taskList_complete.png?raw=true" alt="taskList_complete" width="400" height="400">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/20_components_taskList_complete.png?raw=true" alt="taskList_complete" width="200" height="200">
 </div> 
 <br>
 
