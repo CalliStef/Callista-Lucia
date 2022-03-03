@@ -30,12 +30,12 @@ Figma has a whole range of components, from buttons to layouts. For this documen
    
 <br>   
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/01_components_shape_tool.png" alt="Shape Tool" >
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/01_components_shape_tool.png?raw=true" alt="Shape Tool" >
 </div>
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/02_components_rectangle_option.png" alt="Rectangle Option" width="400" height="400">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/02_components_rectangle_option.png?raw=true" alt="Rectangle Option" width="400" height="400">
 </div> 
 <br>
 
@@ -52,7 +52,7 @@ Figma has a whole range of components, from buttons to layouts. For this documen
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/03_components_button1_design_Settings.png" alt="button1_design_settings" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/03_components_button1_design_Settings.png?raw=true" alt="button1_design_settings" width="300" height="600">
 </div> 
 <br>
 
@@ -60,7 +60,7 @@ Now your button should look something like the picture below! Isn’t it pretty?
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/04_components_button1.png" alt="button1" width="400" height="400">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/04_components_button1.png?raw=true" alt="button1" width="400" height="400">
 </div> 
 <br>
 
@@ -68,7 +68,7 @@ Now your button should look something like the picture below! Isn’t it pretty?
   
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/05_components_text_tool.png" alt="text_tool">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/05_components_text_tool.png?raw=true" alt="text_tool">
 </div> 
 <br>
 
@@ -84,7 +84,7 @@ On the right-hand panel under **Design** set the following changes:
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/06_components_text_settings.png" alt="text_settings" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/06_components_text_settings.png?raw=true" alt="text_settings" width="300" height="600">
 </div> 
 <br>
 
@@ -96,7 +96,7 @@ On the left panel, select both elements by holding and dragging your pointer ove
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/08_components_select_all.png" alt="group_selection" width="400" height="500">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/08_components_select_all.png?raw=true" alt="group_selection" width="400" height="500">
 </div> 
 <br>
 
@@ -104,7 +104,7 @@ Now, *right-click* on the element and select **Group Selection**.
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/07_components_group_selection.png" alt="group_selection" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/07_components_group_selection.png?raw=true" alt="group_selection" width="300" height="600">
 </div> 
 <br>
 
@@ -121,7 +121,7 @@ Rename the group name from “Group 1” to “log-in button.”
 
 <br>
 
-<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">&nbsp;&nbsp; **Note**: <br>
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png?raw=true" alt="note-icon-png">&nbsp;&nbsp; **Note**: <br>
 &nbsp;&nbsp; When multiple elements are grouped together, to select them individually, you will have to double click on the element.
   
 <br>
@@ -130,7 +130,7 @@ Change the text of the second group to “Sign up.”
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/09_components_logIn:SignUp_buttons.png" alt="signUp_button" width="400" height="400">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/09_components_logIn:SignUp_buttons.png?raw=true" alt="signUp_button" width="400" height="400">
 </div> 
 <br>
 
@@ -142,7 +142,7 @@ Congratulations on making it this far! Now we have two button components on our 
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/10_components_shape1.png" alt="shape1" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/10_components_shape1.png?raw=true" alt="shape1" width="300" height="600">
 </div> 
 <br>
 
@@ -156,7 +156,7 @@ On the right-hand panel, set its design settings to the following:
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/11_components_shape1_design_settings.png" alt="shape1_design_settings" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/11_components_shape1_design_settings.png?raw=true" alt="shape1_design_settings" width="300" height="600">
 </div> 
 <br>
 
@@ -173,7 +173,7 @@ We will leave this shape as it is for now. Don’t worry, on the next page/step 
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/12_components_shape2_settings.png" alt="shape2_design_settings" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/12_components_shape2_settings.png?raw=true" alt="shape2_design_settings" width="300" height="600">
 </div> 
 <br>
 
@@ -182,7 +182,7 @@ Your **User Dashboard** frame should look like the image below!
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_components_bothShapes.png" alt="completeLook_of_UserDashboard" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_components_bothShapes.png?raw=true" alt="completeLook_of_UserDashboard" width="300" height="600">
 </div> 
 <br>
 
@@ -201,7 +201,7 @@ Let’s start creating checkboxes for our tasks list! We will be doing this on t
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/14_components_unchecked_design_settings.png" alt="completeLook_of_UserDashboard" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/14_components_unchecked_design_settings.png?raw=true" alt="completeLook_of_UserDashboard" width="300" height="600">
 </div> 
 <br>
 
@@ -210,7 +210,7 @@ Your rectangular box should look like the image below.
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/18_components_unchecked_box.png" alt="component_icon" width="400" height="400">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/18_components_unchecked_box.png?raw=true" alt="component_icon" width="400" height="400">
 </div> 
 <br>
 
@@ -218,13 +218,13 @@ Your rectangular box should look like the image below.
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/15_components_componentIcon.png" alt="component_icon" >
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/15_components_componentIcon.png?raw=true" alt="component_icon" >
 </div> 
 <br>
 
 <br>
 
-<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">&nbsp;&nbsp; **Note**: <br>
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true">&nbsp;&nbsp; **Note**: <br>
 &nbsp;&nbsp; Notice how Figma has now highlighted your element in purple? This means, that your element is now a **main component**.
   
 <br>
@@ -240,7 +240,7 @@ Copy-paste your component 5 times into the **User Dashboard** frame.
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/19_components_main_instances.png" alt="main_components_and_instances" width="400" height="400">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/19_components_main_instances.png?raw=true" alt="main_components_and_instances" width="400" height="400">
 </div> 
 <br>
 
@@ -255,7 +255,7 @@ Copy-paste your component 5 times into the **User Dashboard** frame.
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/16_components_taskItems_text_settings.png" alt="task_text_settings" width="300" height="600">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/16_components_taskItems_text_settings.png?raw=true" alt="task_text_settings" width="300" height="600">
 </div> 
 <br>
 
@@ -263,13 +263,13 @@ Here's the final look of our task list!
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/20_components_taskList_complete.png" alt="taskList_complete" width="400" height="400">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/20_components_taskList_complete.png?raw=true" alt="taskList_complete" width="400" height="400">
 </div> 
 <br>
 
 <br>
   
-<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" alt="note-icon-png">&nbsp; **Success**: <br>
+<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png?raw=true" alt="note-icon-png">&nbsp; **Success**: <br>
 &nbsp; You’ve successfully created many components as well as instances for your Mockup! Your mockup should now look similar to the image below.
 
 <br>
