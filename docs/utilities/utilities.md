@@ -230,8 +230,8 @@ Your rectangular box should look like the image below.
 
 <br>
 
-<div style="background-color: #ffb347" >
-<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true">&nbsp;&nbsp; **Note**: <br>
+<div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: black" >
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true"><strong>Note:</strong> <br>
 &nbsp;&nbsp; Notice how Figma has now highlighted your element in purple? This means, that your element is now a **main component**.
 </div>
 <br>
@@ -274,10 +274,10 @@ Here's the final look of our task list!
 <br>
 
 <br>
-
-<div style="background-color: #c1e2be">
-<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png?raw=true" alt="note-icon-png">&nbsp; **Success**: <br>
-&nbsp; You’ve successfully created many components as well as instances for your Mockup! Your mockup should now look similar to the image below.
+<div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: black" >
+<div style="background-color: #c1e2be; padding: 14px; border-radius: 4px; color: black" >
+<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png?raw=true" alt="note-icon-png"> <strong> Success: </strong> <br>
+You’ve successfully created many components as well as instances for your Mockup! Your mockup should now look similar to the image below.
 </div>
 
 <br>
