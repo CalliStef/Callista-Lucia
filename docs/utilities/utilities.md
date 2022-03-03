@@ -7,6 +7,7 @@ permalink: docs/utilities
 ---
 
 # Components and Instances
+{: .no_toc }
 
 In Figma, components are elements that you can reuse across your designs. This will help your design stay consistent on every frame. 
 
