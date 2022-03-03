@@ -191,7 +191,14 @@ Your mockup now should work the same way as the video below!
 Your browser does not support the video tag
 </video> -->
 
-![Prototype Video](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.gif?raw=true)
+<br>
+<div align="center">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.gif?raw=true" alt="Prototype_Final_Video" width="200" height="100">
+</div> 
+<br>
+
+<!-- 
+![Prototype Video](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.gif?raw=true) -->
 
 <br>
 
