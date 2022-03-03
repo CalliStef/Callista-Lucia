@@ -128,7 +128,41 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 **5.** Your sentence should now look like the image below. 
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img5.png?raw=true" width="400" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img5.png?raw=true" width="350" />
+</div>
+<br>
+
+## Task 2.4 - Adjusting the Text Box Position
+
+**1.** Select your text box, and look at the top sections of your Design panel. 
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img1.png?raw=true" width="350" />
+</div>
+<br>
+
+**Note**:
+&nbsp;&nbsp;
+these numbers may be different from yours.
+<br>
+
+**2.** Click on the **X** value and type “39”.
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img2.png?raw=true" width="300" />
+</div>
+<br>
+
+**3.** Click on the **Y** value and type “65”.
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img3.png?raw=true" width="300" />
+</div>
+<br>
+
+**4.** Your frame should now look like the image below.
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img4.png?raw=true" width="350" />
 </div>
 <br>
 
