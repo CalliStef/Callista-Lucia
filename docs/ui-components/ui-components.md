@@ -70,7 +70,7 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 **3.** Type the font type “Open Sans” to change the font. Press Enter to complete the change.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img3.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img3.png?raw=true" width="300" />
 </div>
 <br>
 
@@ -83,15 +83,14 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 **5.** Still within the **Text** section,  click on the number “12” to select it, and change the default font size by typing “36”. Press `Enter` to complete the change.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img5.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img5.png?raw=true" width="300" />
 </div>
 <br>
 
-<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" alt="note-icon-png">&nbsp;&nbsp; **Success**: <br>
-&nbsp;&nbsp; Your result should look like the figure below so far.
+**6.** Your result should look like the figure below so far.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img6.png?raw=true" width="700" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img6.png?raw=true" width="600" />
 </div>
 <br>
 
