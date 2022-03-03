@@ -75,13 +75,12 @@ If a drop-down menu appears, it means you have clicked on the drop-down arrow in
 
 **3.** Type “Login” for the first frame and click enter to confirm the change.
 
-<div align="center">
- 
+
 Typing            |  Confirmed Name Change
 :-------------------------:|:-------------------------:
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3.png?raw=true" width="250" /> |  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3_2.png?raw=true" width="250" />
 
-</div>
+
 <br>
 
 ## Task 1.3 - Duplicating a Frame
