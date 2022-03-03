@@ -26,7 +26,7 @@ Figma has a whole range of components, from buttons to layouts. For this documen
 
 ---
 
-## Task 1: Create Log-In/Sign-Up buttons
+## Task 1 - Create Log-In/Sign-Up buttons
    
    **1.1** On the very left of the toolbar, access the **Shape Tools** and select the rectangle option.
    
@@ -141,7 +141,7 @@ Change the text of the second group to “Sign up.”
 
 Congratulations on making it this far! Now we have two button components on our mockup! 🙌
 
-## Task 2: Build components for our task list in the **User Dashboard** frame
+## Task 2 - Build components for our task list in the **User Dashboard** frame
 
 **2.1** Using the shapes tool, choose the rectangular option, then create one shape below the underlined text of “Welcome Back.”
 
@@ -191,7 +191,7 @@ Your **User Dashboard** frame should look like the image below!
 </div> 
 <br>
 
-## Task 3: Create checkboxes
+## Task 3 - Create checkboxes
 
 Let’s start creating checkboxes for our tasks list! We will be doing this on the second rectangular of the **User Dashboard** frame. Since we would at least need more than 3 of these checkboxes, let’s use Figma’s feature of **components** and **instances**!
 
@@ -249,7 +249,7 @@ Copy-paste your component 5 times into the **User Dashboard** frame.
 </div> 
 <br>
 
-## Task 4: Add Task Items
+## Task 4 - Add Task Items
 
 **4.1** All that’s left to do is simply add the tasks beside each of these checklists. Using the **Text tool**, create your texts using the following design settings on the right-hand panel:
 * Font-family: Open Sans
