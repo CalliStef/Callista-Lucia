@@ -41,13 +41,15 @@ While not a feature unique to Figma, it is important to be able to add actual co
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img3.png?raw=true" width="650" />
 </div>
+
 <br>
 
-<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
-
-**Note**:
-&nbsp;&nbsp;
+<div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: black" >
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true"><strong>Note:</strong> <br>
 Press the Enter  key on your keyboard after the words “your” and “better” to make the text fit nicely within our frame.
+</div>
+
+<br>
 
 
 ## Task 2.2 - Text Box Properties
@@ -141,10 +143,10 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 </div>
 <br>
 
-<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
-
-**Note**:
-&nbsp;&nbsp;these numbers may be different from yours.
+<div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: black" >
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true"><strong>Note:</strong> <br>
+these numbers may be different from yours.
+</div>
 
 <br>
 
@@ -206,11 +208,12 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 </div>
 <br>
 
-<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
+<div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: black" >
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true"><strong>Note:</strong> <br>
+The text will likely not fit within the frame until we change the properties.
+</div>
 
-**Note**:
-&nbsp;&nbsp;
-the text will likely not fit within the frame until we change the properties
+
 
 <br>
 
@@ -224,10 +227,10 @@ Text Properties            |  Dimension Properties
 
 <br>
 
-<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
-
-**Note**:
-&nbsp;&nbsp; The Width (**W**) and Height (**H**) properties may differ from the image above.
+<div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: black" >
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true"><strong>Note:</strong> <br>
+  The Width (<strong>W</strong>) and Height (<strong>H</strong>) properties may differ from the image above.
+</div>
 
 <br>
 
@@ -251,8 +254,10 @@ Text Properties            |  Dimension Properties
 </div>
 <br>
 
-<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" alt="note-icon-png">&nbsp;&nbsp; **Success**: <br>
-&nbsp;&nbsp;  Your final result should look like this:
+<div style="background-color: #c1e2be; padding: 14px; border-radius: 4px; color: black" >
+<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png?raw=true" alt="note-icon-png"> <strong> Success: </strong> <br>
+Your final result should look like this:
+</div>  
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img10.png?raw=true" width="600" />
