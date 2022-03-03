@@ -200,9 +200,9 @@ You’ve successfully created a functional mockup! If you wish to learn more abo
 
 Now that you’ve reached the end, you have now successfully learned the following:
 
-The importance of setting your starter page and how to do it
-Prototyping your mockup so that it’s able to switch between pages
-Create an interactive button with toggle effects
+1. The importance of setting your starter page and how to do it
+2. Prototyping your mockup so that it’s able to switch between pages
+3. Create an interactive button with toggle effects
 
 Congratulations! If you encountered any issues, please check out the troubleshooting page after this one. Help is on its way!
 
