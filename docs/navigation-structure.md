@@ -159,35 +159,35 @@ Man Walking Vector             |  Woman Standing Vector     |  Man Sitting Vecto
 **1.** Once again, access the **Main Menu** options by clicking on the first icon in the **Navigation Menu**, and select "Plugins", and then "Browse Plugins in Community". Reference Task 3.1 for assistance.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img1.png?raw=true" width="300" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img1.png?raw=true" width="400" />
 </div>
 <br>
 
 **2.** From the Community page, type "Iconify" in the Search Bar. 
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img2.png?raw=true" width="300" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img2.png?raw=true" width="400" />
 </div>
 <br>
 **3.** Make sure you are in the "Plugins" section this time. 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img3.png?raw=true" width="300" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img3.png?raw=true" width="450" />
 </div>
 <br>
 
 **4.** Click the first option called "Iconify" shown below. 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img4.png?raw=true" width="300" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img4.png?raw=true" width="450" />
 </div>
 <br>
 
 **5.** Click the "Install" button.
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img5.png?raw=true" width="300" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img5.png?raw=true" width="400" />
 </div>
 <br>
 
-<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" alt="note-icon-png">&nbsp;&nbsp; **Success**: <br>
+<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" alt="note-icon-png">&nbsp;&nbsp; **Success**:
 &nbsp;&nbsp;  Congratulations! You have installed the Plugin and downloaded a Community File!
 
 <br>
