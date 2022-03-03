@@ -76,14 +76,14 @@ While not a feature unique to Figma, it is important to be able to add actual co
 </div>
 <br>
 
-**2.4** Again in the **Text** section, click on the word “Regular” to see the other options. _Click_ on the option “Bold”.
+**2.4** Again in the **Text** section, _click_ on the word “Regular” to see the other options. _Click_ on the option “Bold”.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img4.png?raw=true" height="500" />
 </div>
 <br>
 
-**2.5** Still within the **Text** section,  click on the number “12” to select it, and change the default font size by typing “36”. Press `Enter` to complete the change.
+**2.5** Still inside the **Text** section,  _click_ on the number “12” to select it, and change the default font size by _typing_ “36”. Press `Enter` to complete the change.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img5.png?raw=true" width="300" />
@@ -176,7 +176,7 @@ these numbers may be different from yours.
 **5.1** In the “User Dashboard” frame, add another text box by using the **Text** tool and _clicking_ anywhere on the frame. _Type_ the sentence “Welcome Back!”
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img1.png?raw=true" width="330" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img1.png?raw=true" width="330" />
 </div>
 <br>
 
