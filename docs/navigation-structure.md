@@ -31,13 +31,13 @@ Figma has a very convenient feature that allows its users to download other prog
 
 **2.** Select the “Plugins” option
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img2.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img2.png?raw=true" width="250" />
 </div>
 <br>
 
 **3.** Click “Browse plugins in Community”. This will redirect you to the **Community Page** on Figma.
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img3.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img3.png?raw=true" width="250" />
 </div>
 <br>
 
@@ -73,9 +73,34 @@ make sure your results are from the Files section.
 
 **1.** From your new workspace,  double click on the first character on the first frame until a blue border wraps around it, as shown below.
 
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img6.png?raw=true" width="450" />
+</div>
+<br>
+
 <img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
 
 **Note**:
 &nbsp;&nbsp;
 Make sure the blue border wraps around all parts of the illustration, not just part of it.
+
+**2.** Right click on your selection, and select the “Copy” option. 
+
+**3.** Return back to your Mockup file on Figma, and paste the content there by right clicking on the “Login” frame and selecting the “Paste here” option. 
+
+**4.** Select the illustration and give it the following properties. Reference Task 2.3 for assistance. 
+
+**5.** Your “Login” frame should now look like the figure below.
+
+## Task 3.3 - Continuing to Add Illustrations
+
+**1.** Return to the “Vector Character Illustrations” Figma and select the following illustrations one by one, pasting them back onto your Mockup File onto the “User Dashboard” frame. Reference Task 3.2 for assistance.
+
+**2.** Select the illustration of the woman standing and give her the following properties.
+
+**3.** Select the illustration of the man sitting down and give him the following properties.
+
+**4.** Select the illustration of the man walking and give him the following properties
+
+**5.** Your “User Dashboard” frame should look like the image below.
 
