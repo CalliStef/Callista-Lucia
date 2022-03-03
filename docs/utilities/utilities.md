@@ -246,7 +246,7 @@ Copy-paste your component 5 times into the **User Dashboard** frame.
 
 ## Task 4: Add Task Items
 
-**4.1** All that’s left to do is simply add the tasks beside each of these checklists. Using the Text tool, create your texts using the following design settings on the right-hand panel:
+**4.1** All that’s left to do is simply add the tasks beside each of these checklists. Using the **Text tool**, create your texts using the following design settings on the right-hand panel:
 * Font-family: Open Sans
 * Text-style: Regular
 * Size: 21
