@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Figma Community Files and Plugins
+title: Figma Community Files & Plugins
 nav_order: 5
 ---
 
 
-# AImplementing Figma Community Files and Plugins
+# Implementing Figma Community Files & Plugins
 {: .no_toc }
 
 Figma has a very convenient feature that allows its users to download other programs and files that can add even more customized content and functions to our project. We will be adding a Plugin called **Iconify** along with a file containing illustrations we can use made by another user on Figma.
@@ -20,246 +20,62 @@ Figma has a very convenient feature that allows its users to download other prog
 
 ---
 
-## Task 2.1 - Entering Text
-**1.** Click on the T icon on the navigation menu above our workspace. This is the Text tool and will turn blue once selected, as shown below. You should also notice your cursor turning into a cross-hair shape, rather than an arrow. 
+## Task 3.1 - Downloading Illustrations from Figma Community Files
+
+**1.** On the **Navigation bar**, click on the first icon (highlighted in blue in the image below) to open up the **Main Menu** options.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img1.png?raw=true" width="450" />
 </div>
 <br>
 
-By default, all pages will appear as top level pages in the main nav unless a parent page is defined (see [Pages with Children](#pages-with-children)).
+**2.** Select the “Plugins” option
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img1.png?raw=true" width="450" />
+</div>
+<br>
 
----
+**3.** Click “Browse plugins in Community”. This will redirect you to the **Community Page** on Figma.
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img1.png?raw=true" width="450" />
+</div>
+<br>
 
-## Ordering pages
+**4.** In the **Search Bar**, type in “Vector character illustrations” and press `Enter` on your keyboard to confirm.
 
-To specify a page order, you can use the `nav_order` parameter in your pages' YAML front matter.
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img1.png?raw=true" width="450" />
+</div>
+<br>
 
-#### Example
-{: .no_toc }
 
-```yaml
----
-layout: default
-title: Customization
-nav_order: 4
----
-```
+**5.** Select the first result returned made by user “Pavan Kondapuram”.
 
-The parameter values determine the order of the top-level pages, and of child pages with the same parent. You can reuse the same parameter values (e.g., integers starting from 1) for the child pages of different parents.
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img1.png?raw=true" width="450" />
+</div>
+<br>
 
-The parameter values can be numbers (integers, floats) and/or strings. When you omit `nav_order` parameters, they default to the titles of the pages, which are ordered alphabetically. Pages with numerical `nav_order` parameters always come before those with strings or default `nav_order` parameters. If you want to make the page order independent of the page titles, you can set explicit `nav_order` parameters on all pages.
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
 
-By default, all Capital letters come before all lowercase letters; you can add `nav_sort: case_insensitive` in the configuration file to ignore the case. Enclosing strings in quotation marks is optional.
+**Note**:
+&nbsp;&nbsp;
+make sure your results are from the Files section.
 
-> *Note for users of previous versions:* `nav_sort: case_insensitive` previously affected the ordering of numerical `nav_order` parameters: e.g., `10` came before `2`. Also, all pages with explicit `nav_order` parameters previously came before all pages with default parameters. Both were potentially confusing, and they have now been eliminated. 
+**6.** Click on the “Duplicate” button. This will open a new tab and redirect you to a new figma file with the contents from the file available to you. 
 
----
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img1.png?raw=true" width="450" />
+</div>
+<br>
 
-## Excluding pages
+## Task 3.2 - Placing the Downloaded Content into your Mockup
 
-For specific pages that you do not wish to include in the main navigation, e.g. a 404 page or a landing page, use the `nav_exclude: true` parameter in the YAML front matter for that page.
+**1.** From your new workspace,  double click on the first character on the first frame until a blue border wraps around it, as shown below.
 
-#### Example
-{: .no_toc }
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
 
-```yaml
----
-layout: default
-title: 404
-nav_exclude: true
----
-```
+**Note**:
+&nbsp;&nbsp;
+Make sure the blue border wraps around all parts of the illustration, not just part of it.
 
-The `nav_exclude` parameter does not affect the [auto-generating list of child pages](#auto-generating-table-of-contents), which you can use to access pages excluded from the main navigation.
-
-Pages with no `title` are automatically excluded from the navigation. 
-
----
-
-## Pages with children
-
-Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together... For example, in these docs, we keep all of the written documentation in the `./docs` directory and each of the sections in subdirectories like `./docs/ui-components` and `./docs/utilities`. This gives us an organization like:
-
-```
-+-- ..
-|-- (Jekyll files)
-|
-|-- docs
-|   |-- ui-components
-|   |   |-- index.md  (parent page)
-|   |   |-- buttons.md
-|   |   |-- code.md
-|   |   |-- labels.md
-|   |   |-- tables.md
-|   |   +-- typography.md
-|   |
-|   |-- utilities
-|   |   |-- index.md      (parent page)
-|   |   |-- color.md
-|   |   |-- layout.md
-|   |   |-- responsive-modifiers.md
-|   |   +-- typography.md
-|   |
-|   |-- (other md files, pages with no children)
-|   +-- ..
-|
-|-- (Jekyll files)
-+-- ..
-```
-
-On the parent pages, add this YAML front matter parameter:
--  `has_children: true` (tells us that this is a parent page)
-
-#### Example
-{: .no_toc }
-
-```yaml
----
-layout: default
-title: UI Components
-nav_order: 2
-has_children: true
----
-```
-
-Here we're setting up the UI Components landing page that is available at `/docs/ui-components`, which has children and is ordered second in the main nav.
-
-### Child pages
-{: .text-gamma }
-
-On child pages, simply set the `parent:` YAML front matter to whatever the parent's page title is and set a nav order (this number is now scoped within the section).
-
-#### Example
-{: .no_toc }
-
-```yaml
----
-layout: default
-title: Buttons
-parent: UI Components
-nav_order: 2
----
-```
-
-The Buttons page appears as a child of UI Components and appears second in the UI Components section.
-
-### Auto-generating Table of Contents
-
-By default, all pages with children will automatically append a Table of Contents which lists the child pages after the parent page's content. To disable this auto Table of Contents, set `has_toc: false` in the parent page's YAML front matter.
-
-#### Example
-{: .no_toc }
-
-```yaml
----
-layout: default
-title: UI Components
-nav_order: 2
-has_children: true
-has_toc: false
----
-```
-
-### Children with children
-{: .text-gamma }
-
-Child pages can also have children (grandchildren). This is achieved by using a similar pattern on the child and grandchild pages.
-
-1. Add the `has_children` attribute to the child
-1. Add the `parent` and `grand_parent` attribute to the grandchild
-
-#### Example
-{: .no_toc }
-
-```yaml
----
-layout: default
-title: Buttons
-parent: UI Components
-nav_order: 2
-has_children: true
----
-```
-
-```yaml
----
-layout: default
-title: Buttons Child Page
-parent: Buttons
-grand_parent: UI Components
-nav_order: 1
----
-```
-
-This would create the following navigation structure:
-
-```
-+-- ..
-|
-|-- UI Components
-|   |-- ..
-|   |
-|   |-- Buttons
-|   |   |-- Button Child Page
-|   |
-|   |-- ..
-|
-+-- ..
-```
-
----
-
-## Auxiliary Links
-
-To add auxiliary links to your site (in the upper right on all pages), add it to the `aux_links` [configuration option]({{ site.baseurl }}{% link docs/configuration.md %}#aux-links) in your site's `_config.yml` file.
-
-#### Example
-{: .no_toc }
-
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
-```
-
----
-
-## In-page navigation with Table of Contents
-
-To generate a Table of Contents on your docs pages, you can use the `{:toc}` method from Kramdown, immediately after an `<ol>` in Markdown. This will automatically generate an ordered list of anchor links to various sections of the page based on headings and heading levels. There may be occasions where you're using a heading and you don't want it to show up in the TOC, so to skip a particular heading use the `{: .no_toc }` CSS class.
-
-#### Example
-{: .no_toc }
-
-```markdown
-# Navigation Structure
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-```
-
-This example skips the page name heading (`#`) from the TOC, as well as the heading for the Table of Contents itself (`##`) because it is redundant, followed by the table of contents itself. To get an unordered list, replace  `1. TOC` above by `- TOC`.
-
-### Collapsible Table of Contents
-
-The Table of Contents can be made collapsible using the `<details>` and `<summary>` elements , as in the following example. The attribute `open` (expands the Table of Contents by default) and the styling with `{: .text-delta }` are optional.
-
-```markdown
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-```
-
-The result is shown at [the top of this page](#navigation-structure) (`{:toc}` can be used only once on each page).
