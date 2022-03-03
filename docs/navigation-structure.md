@@ -20,28 +20,28 @@ Figma has a very convenient feature that allows its users to download other prog
 
 ---
 
-## Task 3.1 - Downloading Illustrations from Figma Community Files
+## Task 1 - Downloading Illustrations from Figma Community Files
 
-**1.** On the **Navigation bar**, _click_ on the first icon (highlighted in blue in the image below) to open up the **Main Menu** options.
+**1.1** On the **Navigation bar**, _click_ on the first icon (highlighted in blue in the image below) to open up the **Main Menu** options.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img1.png?raw=true" width="450" />
 </div>
 <br>
 
-**2.** Select the “Plugins” option
+**1.2** Select the “Plugins” option
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img2.png?raw=true" width="250" />
 </div>
 <br>
 
-**3.** _Click_ “Browse plugins in Community”. This will redirect you to the **Community Page** on Figma.
+**1.3** _Click_ “Browse plugins in Community”. This will redirect you to the **Community Page** on Figma.
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img3.png?raw=true" width="250" />
 </div>
 <br>
 
-**4.** In the **Search Bar**, type in “Vector character illustrations” and press `Enter` on your keyboard to confirm.
+**1.4** In the **Search Bar**, type in “Vector character illustrations” and press `Enter` on your keyboard to confirm.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img4.png?raw=true" width="450" />
@@ -49,7 +49,7 @@ Figma has a very convenient feature that allows its users to download other prog
 <br>
 
 
-**5.** Select the first result returned made by user “Pavan Kondapuram”.
+**1.5** Select the first result returned made by user “Pavan Kondapuram”.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img5.png?raw=true" width="450" />
@@ -65,16 +65,16 @@ Make sure your results are from the Files section.
 
 <br>
 
-**6.** _Click_ on the “Duplicate” button. This will open a new tab and redirect you to a new figma file with the contents from the file available to you. 
+**1.6** _Click_ on the “Duplicate” button. This will open a new tab and redirect you to a new figma file with the contents from the file available to you. 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img6.png?raw=true" width="450" />
 </div>
 <br>
 
-## Task 3.2 - Placing the Downloaded Content into your Mockup
+## Task 2 - Placing the Downloaded Content into your Mockup
 
-**1.** From your new workspace, _double click_ on the first vector illustration on the first frame until a blue border wraps around it, as shown below.
+**2.1** From your new workspace, _double click_ on the first vector illustration on the first frame until a blue border wraps around it, as shown below.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.2_img1.png?raw=true" width="450" />
@@ -89,37 +89,37 @@ Make sure the blue border wraps around all parts of the illustration, not just p
 
 <br>
 
-**2.** _Right click_ on your selection, and select the “Copy” option. 
+**2.2** _Right click_ on your selection, and select the “Copy” option. 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.2_img2.png?raw=true" width="350" />
 </div>
 <br>
 
-**3.** Return back to your **Mockup file** on Figma, and paste the content there by _right clicking_ on the “Login” frame and selecting the “Paste here” option. 
+**2.3** Return back to your **Mockup file** on Figma, and paste the content there by _right clicking_ on the “Login” frame and selecting the “Paste here” option. 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img3.png?raw=true" width="350" />
 </div>
 <br>
 
-**4.** Select the illustration and give it the following properties. Reference Task 2.3 for assistance. 
+**2.4** Select the illustration and give it the following properties. Reference Task 2.3 for assistance. 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img4.png?raw=true" width="350" />
 </div>
 <br>
 
-**5.** Your “Login” frame should now look like the figure below.
+**2.5** Your “Login” frame should now look like the figure below.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.2_img5.png?raw=true" width="300" />
 </div>
 <br>
 
-## Task 3.3 - Continuing to Add Illustrations
+## Task 3 - Continuing to Add Illustrations
 
-**1.** Return to the “Vector Character Illustrations” Figma and select the following illustrations one by one, _pasting_ them back onto your **Mockup File** onto the “User Dashboard” frame. Reference Task 3.2 for assistance.
+**3.1** Return to the “Vector Character Illustrations” Figma and select the following illustrations one by one, _pasting_ them back onto your **Mockup File** onto the “User Dashboard” frame. Reference Task 3.2 for assistance.
 
 Man Walking Vector             |  Woman Standing Vector     |  Man Sitting Vector  
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -127,62 +127,62 @@ Man Walking Vector             |  Woman Standing Vector     |  Man Sitting Vecto
 
 <br>
 
-**2.** Select the illustration of the woman standing and give her the following properties.
+**3.2** Select the illustration of the woman standing and give her the following properties.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img2.png?raw=true" width="350" />
 </div>
 <br>
 
-**3.** Select the illustration of the man sitting down and give him the following properties.
+**3.3** Select the illustration of the man sitting down and give him the following properties.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img3.png?raw=true" width="350" />
 </div>
 <br>
 
-**4.** Select the illustration of the man walking and give him the following properties
+**3.4** Select the illustration of the man walking and give him the following properties
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img4.png?raw=true" width="350" />
 </div>
 <br>
 
-**5.** Your “User Dashboard” frame should look like the image below.
+**3.5** Your “User Dashboard” frame should look like the image below.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img5.png?raw=true" width="300" />
 </div>
 <br>
 
-## Task 3.4 - Downloading Iconify Figma Plugin
+## Task 4 - Downloading Iconify Figma Plugin
 
-**1.** Once again, access the **Main Menu** options by _clicking_ on the first icon in the **Navigation Menu**, and select "Plugins", and then "Browse Plugins in Community". Reference Task 3.1 for assistance.
+**4.1** Once again, access the **Main Menu** options by _clicking_ on the first icon in the **Navigation Menu**, and select "Plugins", and then "Browse Plugins in Community". Reference Task 3.1 for assistance.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img1.png?raw=true" width="400" />
 </div>
 <br>
 
-**2.** From the Community page, _type_ "Iconify" in the Search Bar. 
+**4.2** From the Community page, _type_ "Iconify" in the Search Bar. 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img2.png?raw=true" width="400" />
 </div>
 <br>
-**3.** Make sure you are in the "Plugins" section this time. 
+**4.3** Make sure you are in the "Plugins" section this time. 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img3.png?raw=true" width="450" />
 </div>
 <br>
 
-**4.** _Click_ the first option called "Iconify" shown below. 
+**4.4** _Click_ the first option called "Iconify" shown below. 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img4.png?raw=true" width="450" />
 </div>
 <br>
 
-**5.** _Click_ the "Install" button.
+**4.5** _Click_ the "Install" button.
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img5.png?raw=true" width="400" />
 </div>
