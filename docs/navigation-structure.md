@@ -59,9 +59,8 @@ Figma has a very convenient feature that allows its users to download other prog
 <img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
 
 **Note**:
-&nbsp;&nbsp;
-
-make sure your results are from the Files section.
+&nbsp;&nbsp;make sure your results are from the Files section.
+<br>
 <br>
 
 **6.** Click on the “Duplicate” button. This will open a new tab and redirect you to a new figma file with the contents from the file available to you. 
