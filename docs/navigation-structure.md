@@ -60,6 +60,7 @@ Figma has a very convenient feature that allows its users to download other prog
 
 **Note**:
 &nbsp;&nbsp;
+
 make sure your results are from the Files section.
 <br>
 
