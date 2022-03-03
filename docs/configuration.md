@@ -26,7 +26,7 @@ Frames are one of the most foundational elements of Figma. They can serve as the
 
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1img1.png?raw=true" height="150" width=auto alt="new design file button"/>
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1img1.png?raw=true" width="400" alt="new design file button"/>
 </div>
 <br>
 
