@@ -22,7 +22,7 @@ Figma has a very convenient feature that allows its users to download other prog
 
 ## Task 3.1 - Downloading Illustrations from Figma Community Files
 
-**1.** On the **Navigation bar**, click on the first icon (highlighted in blue in the image below) to open up the **Main Menu** options.
+**1.** On the **Navigation bar**, _click_ on the first icon (highlighted in blue in the image below) to open up the **Main Menu** options.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img1.png?raw=true" width="450" />
@@ -35,7 +35,7 @@ Figma has a very convenient feature that allows its users to download other prog
 </div>
 <br>
 
-**3.** Click “Browse plugins in Community”. This will redirect you to the **Community Page** on Figma.
+**3.** _Click_ “Browse plugins in Community”. This will redirect you to the **Community Page** on Figma.
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img3.png?raw=true" width="250" />
 </div>
@@ -65,7 +65,7 @@ Make sure your results are from the Files section.
 
 <br>
 
-**6.** Click on the “Duplicate” button. This will open a new tab and redirect you to a new figma file with the contents from the file available to you. 
+**6.** _Click_ on the “Duplicate” button. This will open a new tab and redirect you to a new figma file with the contents from the file available to you. 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img6.png?raw=true" width="450" />
@@ -74,7 +74,7 @@ Make sure your results are from the Files section.
 
 ## Task 3.2 - Placing the Downloaded Content into your Mockup
 
-**1.** From your new workspace,  double click on the first character on the first frame until a blue border wraps around it, as shown below.
+**1.** From your new workspace, _double click_ on the first character on the first frame until a blue border wraps around it, as shown below.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.2_img1.png?raw=true" width="450" />
@@ -89,14 +89,14 @@ Make sure the blue border wraps around all parts of the illustration, not just p
 
 <br>
 
-**2.** Right click on your selection, and select the “Copy” option. 
+**2.** _Right click_ on your selection, and select the “Copy” option. 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.2_img2.png?raw=true" width="350" />
 </div>
 <br>
 
-**3.** Return back to your Mockup file on Figma, and paste the content there by right clicking on the “Login” frame and selecting the “Paste here” option. 
+**3.** Return back to your Mockup file on Figma, and paste the content there by _right clicking_ on the “Login” frame and selecting the “Paste here” option. 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img3.png?raw=true" width="350" />
@@ -119,7 +119,7 @@ Make sure the blue border wraps around all parts of the illustration, not just p
 
 ## Task 3.3 - Continuing to Add Illustrations
 
-**1.** Return to the “Vector Character Illustrations” Figma and select the following illustrations one by one, pasting them back onto your Mockup File onto the “User Dashboard” frame. Reference Task 3.2 for assistance.
+**1.** Return to the “Vector Character Illustrations” Figma and select the following illustrations one by one, _pasting_ them back onto your Mockup File onto the “User Dashboard” frame. Reference Task 3.2 for assistance.
 
 Man Walking Vector             |  Woman Standing Vector     |  Man Sitting Vector  
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -157,14 +157,14 @@ Man Walking Vector             |  Woman Standing Vector     |  Man Sitting Vecto
 
 ## Task 3.4 - Downloading Iconify Figma Plugin
 
-**1.** Once again, access the **Main Menu** options by clicking on the first icon in the **Navigation Menu**, and select "Plugins", and then "Browse Plugins in Community". Reference Task 3.1 for assistance.
+**1.** Once again, access the **Main Menu** options by _clicking_ on the first icon in the **Navigation Menu**, and select "Plugins", and then "Browse Plugins in Community". Reference Task 3.1 for assistance.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img1.png?raw=true" width="400" />
 </div>
 <br>
 
-**2.** From the Community page, type "Iconify" in the Search Bar. 
+**2.** From the Community page, _type_ "Iconify" in the Search Bar. 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img2.png?raw=true" width="400" />
@@ -176,13 +176,13 @@ Man Walking Vector             |  Woman Standing Vector     |  Man Sitting Vecto
 </div>
 <br>
 
-**4.** Click the first option called "Iconify" shown below. 
+**4.** _Click_ the first option called "Iconify" shown below. 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img4.png?raw=true" width="450" />
 </div>
 <br>
 
-**5.** Click the "Install" button.
+**5.** _Click_ the "Install" button.
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img5.png?raw=true" width="400" />
 </div>
