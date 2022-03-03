@@ -259,8 +259,9 @@ Text Properties            |  Dimension Properties
 Your final result should look like this:
 </div>  
 
+<br>
+
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img10.png?raw=true" width="600" />
 </div>
 
-<br>
