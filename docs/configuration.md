@@ -37,11 +37,13 @@ Frames are one of the most foundational elements of Figma. They can serve as the
 </div>
 <br>
 
-<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
 
-**Note**:
-&nbsp;&nbsp;
-If a drop-down menu appears, it means you have clicked on the drop-down arrow instead. Click on the first option “Frame” to continue.
+<div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: black" >
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true"><strong>Note:</strong> <br>
+If a drop-down menu appears, it means you have clicked on the drop-down arrow instead. Click on the first option “**Frame**” to continue.
+</div>
+<br>  
+
 
 **3.** You will notice a new side panel appear on the right side of the work area. These are the preset frame sizes Figma offers to match the dimensions of most devices. Make sure you are in the Design tab, and then click on the “iPhone 11 Pro Max” item from the Phone drop-down.
 
@@ -104,9 +106,22 @@ Typing            |  Confirmed Name Change
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1.3_img3.png?raw=true" height="350" width=auto />
 </div>
-<br>
-
-<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" alt="note-icon-png">&nbsp;&nbsp; **Success**: <br>
-&nbsp;&nbsp;  Your final result should look like the image above.
 
 <br>
+
+<div style="background-color: #c1e2be; padding: 14px; border-radius: 4px; color: black" >
+<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png?raw=true" alt="note-icon-png"> <strong> Success: </strong> <br>
+Your final result should look like the image above.
+</div>  
+
+<br>
+
+---
+
+# Conclusion
+
+By the end of this section, you have now learned the following:
+1. How to use frames
+2. The importance of frames
+
+Congratulations! Move on to the next page of this documentation where you will learn how to add text to your mockup and learn to apply design to them!
