@@ -191,7 +191,7 @@ Your mockup now should work the same way as the video below!
 Your browser does not support the video tag
 </video> -->
 
-![Prototype Video](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.mp4)
+![Prototype Video](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.mp4?raw=true)
 
 <br>
 
