@@ -187,9 +187,11 @@ Your mockup now should work the same way as the video below!
   Your browser does not support the video tag.
 </video> -->
 
-<video src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.mp4" autoplay loop>
+<!-- <video src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.mp4?raw=true" autoplay loop>
 Your browser does not support the video tag
-</video>
+</video> -->
+
+![Prototype Video](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.mp4?raw=true)
 
 <br>
 
