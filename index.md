@@ -9,7 +9,7 @@ permalink: /
 # Introduction
 {: .fs-9 }
 
-Welcome to <user documentation name>! In this documentation, we will guide you through all the steps in creating your first mockup in Figma. Additionally, we will utilize the tools that Figma has provided, which will help in widening your perspective in the world of design.
+Welcome to our **"How to Create a Mockup on Figma"** documentation! 🙌 In this documentation, we will guide you through all the steps in creating your first mockup in Figma. Additionally, we will utilize the tools that Figma has provided, which will help in widening your perspective in the world of design.
 
 >**[Figma](https://www.figma.com/about/)** is a free web-based design application that focuses on having design accessible for any user when collaborating on a project. 
 {: .fs-6 .fw-300 }
