@@ -22,14 +22,14 @@ While not a feature unique to Figma, it is important to be able to add actual co
 ---
 
 ## Task 2.1 - Entering Text
-**1.** Click on the T icon on the navigation menu above our workspace. This is the Text tool and will turn blue once selected, as shown below. You should also notice your cursor turning into a cross-hair shape, rather than an arrow. 
+**1.** _Click_ on the "T" icon on the **Navigation Menu** above our workspace. This is the **Text** tool and will turn blue once selected, as shown below. You should also notice your cursor turning into a cross-hair shape, rather than an arrow. 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img1.png?raw=true" width="450" />
 </div>
 <br>
 
-**2.** Click anywhere inside the “Login” frame. This will paste your text box into the frame. You can check you have done this correctly by looking on the Layers Panel on the left-hand side and seeing your Login frame have a new Text box indented below it. 
+**2.** _Click_ anywhere inside the “Login” frame. This will paste your text box into the frame. You can check you have done this correctly by looking on the **Layers Panel** on the left-hand side and seeing your "Login" frame have a new **Text Layer** indented below it. 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img2.png?raw=true" width="500" />
@@ -46,7 +46,7 @@ While not a feature unique to Figma, it is important to be able to add actual co
 
 <div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: black" >
 <img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true"><strong>Note:</strong> <br>
-Press the Enter  key on your keyboard after the words “your” and “better” to make the text fit nicely within our frame.
+_Press_ the `Enter` key on your keyboard after the words “your” and “better” to make the text fit nicely within our frame.
 </div>
 
 <br>
@@ -54,7 +54,7 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 
 ## Task 2.2 - Text Box Properties
 
-**1.** Select your text box by either clicking on the text itself, or clicking on the Text layer within Login.
+**1.** Select your text box by either clicking on the text itself, or clicking on the **Text Layer** within "Login".
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img1.png?raw=true" width="500" />
@@ -62,21 +62,21 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 <br>
 
 
-**2.** In the right-hand **Design Panel**, on the **Text** section, click on where it says “Roboto” until it becomes highlighted and bolded in blue as shown below. 
+**2.** In the right-hand **Design Panel**, on the **Text** section, _click_ on where it says “Roboto” until it becomes highlighted and bolded in blue as shown below. 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img2.png?raw=true" width="250" />
 </div>
 <br>
 
-**3.** Type the font type “Open Sans” to change the font. Press Enter to complete the change.
+**3.** _Type_ the font type “Open Sans” to change the font. Press `Enter` to complete the change.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img3.png?raw=true" width="300" />
 </div>
 <br>
 
-**4.** Again in the **Text** section, click on the word “Regular” to see the other options. Select the option “Bold”.
+**4.** Again in the **Text** section, click on the word “Regular” to see the other options. _Click_ on the option “Bold”.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img4.png?raw=true" height="500" />
@@ -99,28 +99,28 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 
 ## Task 2.3 - Changing Text Colors
 
-**1.** Within the **Design Panel**, inside of the **Fill** section, click on the numbers "000000" next to the black square shown below.
+**1.** Within the **Design Panel**, inside of the **Fill** section, _click_ on the numbers "000000" next to the black square shown below.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img1.png?raw=true" width="350" />
 </div>
 <br>
 
-**2.** Type the number “414141” to change the text color. Press `Enter` to confirm the change.
+**2.** _Type_ the number “414141” to change the text color. Press `Enter` to confirm the change.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img2.png?raw=true" width="600" />
 </div>
 <br>
 
-**3.** Double click on our current text box to edit the text contents, and select the word “Mori”. 
+**3.** _Double click_ on our current text box to edit the text contents, and select the word “Mori”. 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img3.png?raw=true" width="300" />
 </div>
 <br>
 
-**4.** Change its **Fill** color by clicking on the numbers “414141” again and typing in “FF7461”.  
+**4.** Change its **Fill** color by _clicking_ on the numbers “414141” again and _typing_ in “FF7461”.  
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img4.png?raw=true" width="300" />
@@ -150,13 +150,13 @@ these numbers may be different from yours.
 
 <br>
 
-**2.** Click on the **X** value and type “39”.
+**2.** _Click_ on the **X** value and _type_ “39”.
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img2.png?raw=true" width="150" />
 </div>
 <br>
 
-**3.** Click on the **Y** value and type “65”.
+**3.** _Click_ on the **Y** value and _type_ “65”.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img3.png?raw=true" width="150" />
@@ -173,7 +173,7 @@ these numbers may be different from yours.
 
 ## Task 2.5 - Additional Text Content
 
-**1.** In the “User Dashboard” frame, add another text box by using the **Text** tool and clicking anywhere on the frame. Type the sentence “Welcome Back!”
+**1.** In the “User Dashboard” frame, add another text box by using the **Text** tool and _clicking_ anywhere on the frame. _Type_ the sentence “Welcome Back!”
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img1.png?raw=true" width="330" />
@@ -201,7 +201,7 @@ these numbers may be different from yours.
 </div>
 <br>
 
-**5.** In the “Login” frame, add another text box and type “Mori is a simple To Do List app designed to keep you organized and productive!”, pressing enter after the spaces in the words “list”, “you”, and “productive!”.
+**5.** In the “Login” frame, add another text box and type “Mori is a simple To Do List app designed to keep you organized and productive!”, pressing `Enter` after the spaces in the words “list”, “you”, and “productive!”.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img5.png?raw=true" width="250" />
@@ -241,7 +241,7 @@ Text Properties            |  Dimension Properties
 </div>
 <br>
 
-**8.** In the “User Dashboard” frame, add a text box with the text “Tasks for Today” and give it the following properties:
+**8.** In the “User Dashboard” frame, _add_ a text box with the text “Tasks for Today” and give it the following properties:
 
 Text Properties            |  Dimension Properties
 :-------------------------:|:-------------------------:
