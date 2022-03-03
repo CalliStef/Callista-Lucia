@@ -5,10 +5,11 @@ nav_order: 3
 permalink: /docs/ui-components
 ---
 
-# Creating & Using Frames
+# Adding Content in Figma
 {: .no_toc }
 
-Frames are one of the most foundational elements of Figma. They can serve as the container or viewport holding your app’s design components, but can also be a component in your design itself. In the coming section, we will be creating our first frame on Figma and getting our workspace ready to be worked with.
+While not a feature unique to Figma, it is important to be able to add actual context to our application mockup through text boxes! We will be using the Text tool in Figma to add text boxes of different colors and sizes.
+
 
 {: .fs-6 .fw-300 }
 
@@ -20,5 +21,9 @@ Frames are one of the most foundational elements of Figma. They can serve as the
 
 ---
 
-## Task 1.1 Creating Your First Frame on Figma
-**1.** To start your new design project, click on the “New design file” button inside the Dashboard. 
+## Task 2.1 - Entering Text
+**1.** Click on the T icon on the navigation menu above our workspace. This is the Text tool and will turn blue once selected, as shown below. You should also notice your cursor turning into a cross-hair shape, rather than an arrow. 
+
+**2.** Click anywhere inside the “Login” frame. This will paste your text box into the frame. You can check you have done this correctly by looking on the Layers Panel on the left-hand side and seeing your Login frame have a new Text box indented below it. 
+
+**3.** Begin typing the content you want to have on your app. For this tutorial, we will be creating Mori, a To Do List app, so we will type in “Manage your tasks better with Mori”. 
