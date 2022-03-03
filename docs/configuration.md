@@ -94,7 +94,7 @@ Typing            |  Confirmed Name Change
 </div>
 <br>
 
-**3.2** _Right click_ on an area off of the frame and _select_ the option “Paste here”.
+**3.2** _Right click_ on an area off of the frame and select the option “Paste here”.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1.3_img2.png?raw=true" height="200" width=auto />
