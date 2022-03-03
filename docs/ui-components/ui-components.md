@@ -47,7 +47,6 @@ While not a feature unique to Figma, it is important to be able to add actual co
 
 **Note**:
 &nbsp;&nbsp;
-
 Press the Enter  key on your keyboard after the words “your” and “better” to make the text fit nicely within our frame.
 
 
@@ -55,6 +54,38 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 
 **1.** Select your text box by either clicking on the text itself, or clicking on the Text layer within Login.
 
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img1.png?raw=true" width="450" />
+</div>
+<br>
+
+
 **2.** In the right-hand **Design Panel**, on the **Text** section, click on where it says “Roboto” until it becomes highlighted and bolded in blue as shown below. 
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img2.png?raw=true" width="400" />
+</div>
+<br>
+
+**3.** Type the font type “Open Sans” to change the font. Press Enter to complete the change.
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img3.png?raw=true" width="350" />
+</div>
+<br>
+
+**4.** Click on the word “Regular” to open its context menu. Select the option “Bold”.
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img3.png?raw=true" width="300" />
+</div>
+<br>
+
+**5.** Still within the **Text** section,  click on the number “12” to select it, and change the default font size by typing “36”. Press `Enter` to complete the change.
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img3.png?raw=true" width="400" />
+</div>
+<br>
+
 
 
