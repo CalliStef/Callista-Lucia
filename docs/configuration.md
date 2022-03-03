@@ -61,7 +61,7 @@ Frames are one of the most foundational elements of Figma. They can serve as the
 **1.** Right click on the name of the desired frame on the left-side panel to activate its context menu. The name should have a blue background color once selected.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img1.png?raw=true" height="250" width=auto />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img1.png?raw=true" height=auto width="400" />
 </div>
 <br>
 
