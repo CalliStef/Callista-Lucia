@@ -48,7 +48,7 @@ No prerequisite knowledge is required in following this documentation. Figma is 
   
 <div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: black" >
 <img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true"><strong>Note:</strong> <br>
-Figma can also be **[downloaded](https://www.figma.com/downloads/)** locally on your computer or on mobile. 
+  Figma can also be <a href="https://www.figma.com/downloads/">downloaded</a> locally on your computer or on mobile. 
 </div>
 <br>  
 
@@ -88,7 +88,7 @@ Although, Figma works on most operating systems that runs a browser. These opera
 <img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/512/1680/1680214.png" alt="note-icon-png?raw=true"><strong>Warning:</strong> <br>
 The icon signifies that the following text must be read before proceeding.
 </div>
-<br>    
+ 
 
 <br>
 
