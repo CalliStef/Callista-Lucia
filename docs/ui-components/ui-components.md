@@ -216,16 +216,12 @@ the text will likely not fit within the frame until we change the properties
 
 **6.**  Give it the following **Text** and **Design** properties. Refer to Task 2.1 and Task 2.3 for assistance.
 
-<div align="center">
+
   
 Text Properties            |  Dimension Properties
 :-------------------------:|:-------------------------:
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img6_1.png?raw=true" width="250" /> |  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img6_1.png?raw=true" width="250" />
 
-
-<br>
-
-</div>
 <br>
 
 <img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
@@ -238,7 +234,7 @@ Text Properties            |  Dimension Properties
 **7.** Change the color of the whole paragraph to “414141” but give the word “Mori” the color “FF7461”. The result should look like the figure below. Refer to Task 2.2 for assistance.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img7.png?raw=true" width="300" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img7.png?raw=true" height="700" />
 </div>
 <br>
 
@@ -246,7 +242,7 @@ Text Properties            |  Dimension Properties
 
 Text Properties            |  Dimension Properties
 :-------------------------:|:-------------------------:
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img7.png?raw=true" width="250" /> |  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img7_2.png?raw=true" width="250" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img8.png?raw=true" width="250" /> |  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img8_2.png?raw=true" width="250" />
 
 **9.** Change the color property to “414141”. Then, select the word “Today” and set its color property to “FF7461”. Refer to Task 2.2 for assistance.
 
