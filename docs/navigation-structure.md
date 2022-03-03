@@ -174,12 +174,22 @@ Man Walking Vector             |  Woman Standing Vector     |  Man Sitting Vecto
 </div>
 <br>
 
-**4.** Click the first option shown below. 
+**4.** Click the first option called "Iconify" shown below. 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img5.png?raw=true" width="300" />
 </div>
 <br>
 
+**5.** Click the "Install" button.
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img5.png?raw=true" width="300" />
+</div>
+<br>
+
+<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" alt="note-icon-png">&nbsp;&nbsp; **Success**: <br>
+&nbsp;&nbsp;  Congratulations! You have installed the Plugin and downloaded a Community File!
+
+<br>
 
 
 
