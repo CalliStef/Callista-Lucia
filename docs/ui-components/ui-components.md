@@ -134,7 +134,7 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 
 ## Task 2.4 - Adjusting the Text Box Position
 
-**1.** Select your text box, and look at the top sections of your Design panel. 
+**1.** Select your text box, and look at the top section of your **Design Panel** (shown below). 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img1.png?raw=true" width="350" />
@@ -145,19 +145,20 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 
 **Note**:
 &nbsp;&nbsp;
+
 these numbers may be different from yours.
 <br>
 
 **2.** Click on the **X** value and type “39”.
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img2.png?raw=true" width="200" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img2.png?raw=true" width="150" />
 </div>
 <br>
 
 **3.** Click on the **Y** value and type “65”.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img3.png?raw=true" width="200" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img3.png?raw=true" width="150" />
 </div>
 <br>
 
