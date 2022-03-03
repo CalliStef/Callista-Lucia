@@ -70,20 +70,27 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 **3.** Type the font type “Open Sans” to change the font. Press Enter to complete the change.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img3.png?raw=true" width="350" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img3.png?raw=true" width="350" />
 </div>
 <br>
 
 **4.** Click on the word “Regular” to open its context menu. Select the option “Bold”.
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img3.png?raw=true" width="300" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img4.png?raw=true" width="300" />
 </div>
 <br>
 
 **5.** Still within the **Text** section,  click on the number “12” to select it, and change the default font size by typing “36”. Press `Enter` to complete the change.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img3.png?raw=true" width="400" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img5.png?raw=true" width="400" />
+</div>
+<br>
+
+**6.** Your result should look like the figure below so far.
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img5.png?raw=true" width="400" />
 </div>
 <br>
 
