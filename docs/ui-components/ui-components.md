@@ -29,14 +29,14 @@ While not a feature unique to Figma, it is important to be able to add actual co
 </div>
 <br>
 
-**2.1** _Click_ anywhere inside the “Login” frame. This will paste your text box into the frame. You can check you have done this correctly by looking on the **Layers Panel** on the left-hand side and seeing your "Login" frame have a new **Text Layer** indented below it. 
+**1.2** _Click_ anywhere inside the “Login” frame. This will paste your text box into the frame. You can check you have done this correctly by looking on the **Layers Panel** on the left-hand side and seeing your "Login" frame have a new **Text Layer** indented below it. 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img2.png?raw=true" width="500" />
 </div>
 <br>
 
-**3.1** Begin typing the content you want to have on your app. For this tutorial, we will be creating Mori, a To Do List app, so we will type in “Manage your tasks better with Mori”. 
+**1.3** Begin typing the content you want to have on your app. For this tutorial, we will be creating Mori, a To Do List app, so we will type in “Manage your tasks better with Mori”. 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img3.png?raw=true" width="650" />
