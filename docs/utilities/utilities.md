@@ -8,9 +8,9 @@ permalink: docs/utilities
 # Components and Instances
 {: .no_toc }
 
-In Figma, components are elements that you can reuse across your designs. This will help your design stay consistent on every frame. 
+In Figma, **components** are elements that you can reuse across your designs. This will help your design stay consistent on every **frame**. 
 
-Figma has a whole range of components, from buttons to layouts. For this documentation’s mockup, we’re gonna focus on two aspects to a component, a **Main (Master) Component**, and **Instances**.
+Figma has a whole range of **components**, from buttons to layouts. For this documentation’s **mockup**, we’re gonna focus on two aspects to a **component**, a **Main (Master) Component**, and **Instances**.
 
 
 > 1. A **Main Component** defines the properties of the Component.
@@ -59,7 +59,7 @@ On the right-hand panel, under “**Design**,” set the following changes:
 </div> 
 <br>
 
-Now your button should look something like the picture below! Isn’t it pretty?
+Now your button should look something like the picture below! Isn’t it pretty? ✨
 
 <br>
 <div align="center">
@@ -67,7 +67,7 @@ Now your button should look something like the picture below! Isn’t it pretty?
 </div> 
 <br>
 
-  **1.4** Let’s add text to the button! Remember what we learned from the previous step? Click on the **Text tool** on the left of the toolbar.
+  **1.4** Let’s add text to the button! Remember what we learned from the previous step? *Click* on the **Text tool** on the left of the toolbar.
   
 <br>
 <div align="center">
@@ -93,9 +93,9 @@ On the right-hand panel under **Design** set the following changes:
 
   **1.5** Let’s group both elements together, this way we can simply select both the rectangular shape and the text together as a single element.
 
-> Groups in Figma allow you to combine multiple elements together as a single top-level layer.
+> **Groups** in Figma allow you to combine multiple elements together as a single top-level layer.
 
-On the left panel, select both elements by holding and dragging your pointer over the two elements.
+On the left panel, select both elements by *holding* and *dragging* your pointer over the two elements.
 
 <br>
 <div align="center">
@@ -193,9 +193,9 @@ Your **User Dashboard** frame should look like the image below!
 
 ## Task 3 - Create checkboxes
 
-Let’s start creating checkboxes for our tasks list! We will be doing this on the second rectangular of the **User Dashboard** frame. Since we would at least need more than 3 of these checkboxes, let’s use Figma’s feature of **components** and **instances**!
+Let’s start creating checkboxes for our tasks list! We will be doing this on the second rectangular of the "User Dashboard" frame. Since we would at least need more than 3 of these checkboxes, let’s use Figma’s feature of **components** and **instances**!
 
-**3.1** Outside of the User Dashboard frame, create a small rectangular box with the following properties:
+**3.1** Outside of the "User Dashboard" frame, create a small rectangular box with the following properties:
 * W: 21.88
 * H: 21.88
 * Fill with opacity at 0%
@@ -236,11 +236,11 @@ Your rectangular box should look like the image below.
 <br>
 
 
-Rename your new component to “unchecked/Default”
+Rename your new component to “unchecked/Default.”
 
 **3.3** When copying from a **main component**, those pasted elements are called **instances**. These **instances** are connected to the **main component’s** design.  Any changes created on the **main component** will affect all of its **instances**.
 		
-Copy-paste your component 5 times into the **User Dashboard** frame.
+Copy-paste your **component** 5 times into the **User Dashboard** frame.
 
 
 <br>
@@ -292,7 +292,7 @@ Now that you’ve reached the end, you have now successfully learned the followi
 3. Create the main component and its instances
 4. The importance of using components for a more consistent and easy design
 
-Congratulations! Continue on to the next page where we will go through one of the biggest features that Figma, plug-ins, and its community files!
+Congratulations! Continue on to the next page where we will go through one of the biggest features that Figma, **plugins**, and its community files!
 
 
 
