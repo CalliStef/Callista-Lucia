@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Prototype
+title: Prototyping Elements
 nav_order: 6
 ---
 
-# Prototype
+# Prototyping Elements
 {: .no_toc }
 
 In Figma, the prototyping feature helps create flows that simulate how a user might interact with your designs. By prototyping our design, it will provide functionality, which will help communicate with your users, and help them understand your design more. 
