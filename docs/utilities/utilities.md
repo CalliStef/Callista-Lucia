@@ -140,7 +140,7 @@ Change the text of the second group to “Sign up.”
 </div> 
 <br>
 
-Congratulations on making it this far! Now we have two button components on our mockup! :raised_hands:
+Congratulations on making it this far! Now we have two button components on our mockup! 🙌
 
 ## Task 2: Build components for our task list in the **User Dashboard** frame
 
