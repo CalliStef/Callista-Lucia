@@ -74,7 +74,7 @@ make sure your results are from the Files section.
 **1.** From your new workspace,  double click on the first character on the first frame until a blue border wraps around it, as shown below.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img6.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.2_img1.png?raw=true" width="450" />
 </div>
 <br>
 
@@ -86,21 +86,67 @@ Make sure the blue border wraps around all parts of the illustration, not just p
 
 **2.** Right click on your selection, and select the “Copy” option. 
 
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.2_img2.png?raw=true" width="450" />
+</div>
+<br>
+
 **3.** Return back to your Mockup file on Figma, and paste the content there by right clicking on the “Login” frame and selecting the “Paste here” option. 
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img6.png?raw=true" width="450" />
+</div>
+<br>
 
 **4.** Select the illustration and give it the following properties. Reference Task 2.3 for assistance. 
 
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img6.png?raw=true" width="450" />
+</div>
+<br>
+
 **5.** Your “Login” frame should now look like the figure below.
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img6.png?raw=true" width="450" />
+</div>
+<br>
 
 ## Task 3.3 - Continuing to Add Illustrations
 
 **1.** Return to the “Vector Character Illustrations” Figma and select the following illustrations one by one, pasting them back onto your Mockup File onto the “User Dashboard” frame. Reference Task 3.2 for assistance.
 
+Man Walking Vector             |  Woman Standing Vector     |  Man Sitting Vector  
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img1_1.png?raw=true" width="200" /> |  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img1_2.png?raw=true" width="200" /> | <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img1_3.png?raw=true" width="200" />
+
+<br>
+
 **2.** Select the illustration of the woman standing and give her the following properties.
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img6.png?raw=true" width="450" />
+</div>
+<br>
 
 **3.** Select the illustration of the man sitting down and give him the following properties.
 
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img6.png?raw=true" width="450" />
+</div>
+<br>
+
 **4.** Select the illustration of the man walking and give him the following properties
 
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img6.png?raw=true" width="450" />
+</div>
+<br>
+
 **5.** Your “User Dashboard” frame should look like the image below.
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img6.png?raw=true" width="450" />
+</div>
+<br>
 
