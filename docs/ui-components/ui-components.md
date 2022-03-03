@@ -39,7 +39,7 @@ While not a feature unique to Figma, it is important to be able to add actual co
 **3.** Begin typing the content you want to have on your app. For this tutorial, we will be creating Mori, a To Do List app, so we will type in “Manage your tasks better with Mori”. 
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img3.png?raw=true" width="500" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img3.png?raw=true" width="650" />
 </div>
 <br>
 
@@ -55,7 +55,7 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 **1.** Select your text box by either clicking on the text itself, or clicking on the Text layer within Login.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img1.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img1.png?raw=true" width="500" />
 </div>
 <br>
 
@@ -63,34 +63,35 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 **2.** In the right-hand **Design Panel**, on the **Text** section, click on where it says “Roboto” until it becomes highlighted and bolded in blue as shown below. 
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img2.png?raw=true" width="400" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img2.png?raw=true" width="350" />
 </div>
 <br>
 
 **3.** Type the font type “Open Sans” to change the font. Press Enter to complete the change.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img3.png?raw=true" width="350" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img3.png?raw=true" width="550" />
 </div>
 <br>
 
 **4.** Click on the word “Regular” to open its context menu. Select the option “Bold”.
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img4.png?raw=true" width="300" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img4.png?raw=true" width="600" />
 </div>
 <br>
 
 **5.** Still within the **Text** section,  click on the number “12” to select it, and change the default font size by typing “36”. Press `Enter` to complete the change.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img5.png?raw=true" width="400" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img5.png?raw=true" width="550" />
 </div>
 <br>
 
-**6.** Your result should look like the figure below so far.
+<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" alt="note-icon-png">&nbsp;&nbsp; **Success**: <br>
+&nbsp;&nbsp; Your result should look like the figure below so far.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img5.png?raw=true" width="400" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img6.png?raw=true" width="700" />
 </div>
 <br>
 
