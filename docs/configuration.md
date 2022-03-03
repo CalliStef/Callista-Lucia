@@ -41,7 +41,7 @@ Frames are one of the most foundational elements of Figma. They can serve as the
 <div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: black" >
 <img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true"><strong>Note:</strong> <br>
   
-If a drop-down menu appears, it means you have clicked on the drop-down arrow instead. _Click_ on the first option “Frame” to continue.
+  If a drop-down menu appears, it means you have clicked on the drop-down arrow instead. <i>Click</i> on the first option “Frame” to continue.
 </div>
 <br>  
 
