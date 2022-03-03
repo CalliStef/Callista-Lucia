@@ -43,7 +43,7 @@ Figma has a whole range of **components**, from buttons to layouts. For this doc
 
    **1.2** Once you’ve done this, your pointer now should now be shaped similar to a plus sign (+), which means, you’re now ready to create the shape.
 
-   **1.3** Now, with your pointer, in the log-in frame, below the sentence, “Mori is a simple To-Do list…,” *hold* and *drag* to create a rectangle. Let go of your *hold* once you’re done.
+   **1.3** Now, with your pointer, in the "login" frame, below the sentence, “Mori is a simple To-Do list…,” *hold* and *drag* to create a rectangle. Let go of your *hold* once you’re done.
    
 On the right-hand panel, under “**Design**,” set the following changes:
 * X-position: 84
@@ -141,7 +141,7 @@ Change the text of the second group to “Sign up.”
 
 Congratulations on making it this far! Now we have two button components on our mockup! 🙌
 
-## Task 2 - Build components for our task list in the **User Dashboard** frame
+## Task 2 - Build components for our task list in the "User Dashboard" frame
 
 **2.1** Using the shapes tool, choose the rectangular option, then create one shape below the underlined text of “Welcome Back.”
 
@@ -240,7 +240,7 @@ Rename your new component to “unchecked/Default.”
 
 **3.3** When copying from a **main component**, those pasted elements are called **instances**. These **instances** are connected to the **main component’s** design.  Any changes created on the **main component** will affect all of its **instances**.
 		
-Copy-paste your **component** 5 times into the **User Dashboard** frame.
+Copy-paste your **component** 5 times into the "User Dashboard" frame.
 
 
 <br>
