@@ -22,7 +22,7 @@ Frames are one of the most foundational elements of Figma. They can serve as the
 ---
 
 ## Task 1 - Creating Your First Frame on Figma
-**1.1** To start your new design project, _click_ on the “New design file” button inside the Dashboard. 
+**1.1** To start your new design project, _click_ on the “New design file” button inside the **Dashboard**. 
 
 
 <div align="center">
