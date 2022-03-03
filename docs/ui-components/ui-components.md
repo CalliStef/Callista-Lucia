@@ -32,14 +32,14 @@ While not a feature unique to Figma, it is important to be able to add actual co
 **2.** Click anywhere inside the “Login” frame. This will paste your text box into the frame. You can check you have done this correctly by looking on the Layers Panel on the left-hand side and seeing your Login frame have a new Text box indented below it. 
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img2.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img2.png?raw=true" width="500" />
 </div>
 <br>
 
 **3.** Begin typing the content you want to have on your app. For this tutorial, we will be creating Mori, a To Do List app, so we will type in “Manage your tasks better with Mori”. 
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img3.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img3.png?raw=true" width="500" />
 </div>
 <br>
 
@@ -47,7 +47,14 @@ While not a feature unique to Figma, it is important to be able to add actual co
 
 **Note**:
 &nbsp;&nbsp;
+
 Press the Enter  key on your keyboard after the words “your” and “better” to make the text fit nicely within our frame.
 
 
-**4.** 
+## Task 2.2 - Text Box Properties
+
+**1.** Select your text box by either clicking on the text itself, or clicking on the Text layer within Login.
+
+**2.** In the right-hand **Design Panel**, on the **Text** section, click on where it says “Roboto” until it becomes highlighted and bolded in blue as shown below. 
+
+
