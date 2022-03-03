@@ -90,28 +90,28 @@ Make sure the blue border wraps around all parts of the illustration, not just p
 **2.** Right click on your selection, and select the “Copy” option. 
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.2_img2.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.2_img2.png?raw=true" width="350" />
 </div>
 <br>
 
 **3.** Return back to your Mockup file on Figma, and paste the content there by right clicking on the “Login” frame and selecting the “Paste here” option. 
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img3.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img3.png?raw=true" width="350" />
 </div>
 <br>
 
 **4.** Select the illustration and give it the following properties. Reference Task 2.3 for assistance. 
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img4.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img4.png?raw=true" width="350" />
 </div>
 <br>
 
 **5.** Your “Login” frame should now look like the figure below.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img5.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img5.png?raw=true" width="350" />
 </div>
 <br>
 
