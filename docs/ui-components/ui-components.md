@@ -8,7 +8,7 @@ permalink: /docs/ui-components
 # Adding Content in Figma
 {: .no_toc }
 
-While not a feature unique to Figma, it is important to be able to add actual context to our application mockup through text boxes! We will be using the Text tool in Figma to add text boxes of different colors and sizes.
+While not a feature unique to Figma, it is important to be able to add actual context to our application mockup through text boxes! We will be using the **Text** tool in Figma to add text boxes of different colors and sizes.
 
 
 {: .fs-6 .fw-300 }
@@ -29,14 +29,14 @@ While not a feature unique to Figma, it is important to be able to add actual co
 </div>
 <br>
 
-**1.2** _Click_ anywhere inside the “Login” frame. This will paste your text box into the frame. You can check you have done this correctly by looking on the **Layers Panel** on the left-hand side and seeing your "Login" frame have a new **Text Layer** indented below it. 
+**1.2** _Click_ anywhere inside the “Login” frame. This will paste your text box into the frame. You can check you have done this correctly by looking on the **Layers Panel** on the left-hand side and seeing a new **Text Layer** indented below "Login". 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img2.png?raw=true" width="500" />
 </div>
 <br>
 
-**1.3** Begin typing the content you want to have on your app. For this tutorial, we will be creating Mori, a To Do List app, so we will type in “Manage your tasks better with Mori”. 
+**1.3** _Type_ the content you want to have on your app. For this tutorial, we will be creating Mori, a To Do List app, so we will type “Manage your tasks better with Mori”. 
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img3.png?raw=true" width="650" />
@@ -46,7 +46,7 @@ While not a feature unique to Figma, it is important to be able to add actual co
 
 <div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: black" >
 <img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true"><strong>Note:</strong> <br>
-_Press_ the `Enter` key on your keyboard after the words “your” and “better” to make the text fit nicely within our frame.
+  <i>Press</i> the <code>Enter</code> key on your keyboard after the words “your” and “better” to make the text fit nicely within our frame.
 </div>
 
 <br>
