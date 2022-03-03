@@ -216,11 +216,11 @@ the text will likely not fit within the frame until we change the properties
 
 **6.**  Give it the following **Text** and **Design** properties. Refer to Task 2.1 and Task 2.3 for assistance.
 
-<div align="space-around">
+<div align="center">
   
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img6_1.png?raw=true" width="330" />
- 
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img6_2.png?raw=true" width="330" />
+ Text Properties             |  Dimension Properties
+:-------------------------:|:-------------------------:
+ <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img6_1.png?raw=true" width="330" /> |  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img6_2.png?raw=true" width="330" />
 
 </div>
 <br>
