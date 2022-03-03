@@ -1,26 +1,32 @@
 ---
 layout: default
-title: Navigation Structure
+title: Figma Community Files and Plugins
 nav_order: 5
 ---
 
-# Navigation Structure
+
+# AImplementing Figma Community Files and Plugins
 {: .no_toc }
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
+Figma has a very convenient feature that allows its users to download other programs and files that can add even more customized content and functions to our project. We will be adding a Plugin called **Iconify** along with a file containing illustrations we can use made by another user on Figma.
+
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
-</details>
 
 ---
 
-## Main navigation
+## Task 2.1 - Entering Text
+**1.** Click on the T icon on the navigation menu above our workspace. This is the Text tool and will turn blue once selected, as shown below. You should also notice your cursor turning into a cross-hair shape, rather than an arrow. 
 
-The main navigation for your Just the Docs site is on the left side of the page at large screens and on the top (behind a tap) on small screens. The main navigation can be structured to accommodate a multi-level menu system (pages with children and grandchildren).
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img1.png?raw=true" width="450" />
+</div>
+<br>
 
 By default, all pages will appear as top level pages in the main nav unless a parent page is defined (see [Pages with Children](#pages-with-children)).
 
