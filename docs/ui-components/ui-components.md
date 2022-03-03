@@ -63,27 +63,27 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 **2.** In the right-hand **Design Panel**, on the **Text** section, click on where it says “Roboto” until it becomes highlighted and bolded in blue as shown below. 
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img2.png?raw=true" width="350" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img2.png?raw=true" width="250" />
 </div>
 <br>
 
 **3.** Type the font type “Open Sans” to change the font. Press Enter to complete the change.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img3.png?raw=true" width="550" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img3.png?raw=true" width="450" />
 </div>
 <br>
 
 **4.** Click on the word “Regular” to open its context menu. Select the option “Bold”.
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img4.png?raw=true" width="600" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img4.png?raw=true" width="500" />
 </div>
 <br>
 
 **5.** Still within the **Text** section,  click on the number “12” to select it, and change the default font size by typing “36”. Press `Enter` to complete the change.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img5.png?raw=true" width="550" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img5.png?raw=true" width="450" />
 </div>
 <br>
 
@@ -95,5 +95,7 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 </div>
 <br>
 
+## Task 2.3 - Changing Text Colors
 
+**1.** Within the **Design Panel**, inside of the **Fill** section, click on the numbers "000000" next to the black square shown below.
 
