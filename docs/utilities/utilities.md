@@ -45,7 +45,7 @@ Figma has a whole range of components, from buttons to layouts. For this documen
 
    **1.3** Now, with your pointer, in the log-in frame, below the sentence, “Mori is a simple To-Do list…,” *hold* and *drag* to create a rectangle. Let go of your *hold* once you’re done.
    
-On the right-hand panel, under “Design,” set the following changes:
+On the right-hand panel, under “**Design**,” set the following changes:
 * X-position: 84
 * Y-position: 699
 * W: 236
@@ -124,9 +124,10 @@ Rename the group name from “Group 1” to “log-in button.”
 
 <br>
 
+<div style="background-color: #ffb347" >
 <img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png?raw=true" alt="note-icon-png">&nbsp;&nbsp; **Note**: <br>
 &nbsp;&nbsp; When multiple elements are grouped together, to select them individually, you will have to double click on the element.
-  
+</div>
 <br>
 
 Change the text of the second group to “Sign up.”
@@ -227,9 +228,10 @@ Your rectangular box should look like the image below.
 
 <br>
 
+<div style="background-color: #ffb347" >
 <img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true">&nbsp;&nbsp; **Note**: <br>
 &nbsp;&nbsp; Notice how Figma has now highlighted your element in purple? This means, that your element is now a **main component**.
-  
+</div>
 <br>
 
 
@@ -270,9 +272,11 @@ Here's the final look of our task list!
 <br>
 
 <br>
-  
+
+<div style="background-color: #c1e2be">
 <img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png?raw=true" alt="note-icon-png">&nbsp; **Success**: <br>
 &nbsp; You’ve successfully created many components as well as instances for your Mockup! Your mockup should now look similar to the image below.
+</div>
 
 <br>
 
