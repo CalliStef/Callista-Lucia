@@ -180,14 +180,14 @@ these numbers may be different from yours.
 </div>
 <br>
 
-**5.2** Set its properties in the **Design panel** to be the same as the ones in the figure below. Refer to [Task 2](#task-2---text-box-properties) and [Task 2](#task-3---changing-text-colors) for assistance.
+**5.2** Set its properties in the **Design panel** to be the same as the ones in the figure below. Refer to [Task 2](#task-2---text-box-properties) and [Task 3](#task-3---changing-text-colors) for assistance.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img2.png?raw=true" width="330" />
 </div>
 <br>
 
-**5.3** Set its position in the **Design Panel** to be the same as the values in the figure below. Refer to Task 2.3 for assistance.
+**5.3** Set its position in the **Design Panel** to be the same as the values in the figure below. Refer to [Task 4](#task-4---adjusting-the-text-box-position) for assistance.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img3.png?raw=true" width="330" />
