@@ -45,9 +45,12 @@ No prerequisite knowledge is required in following this documentation. Figma is 
 ## Technical Requirements
   
 <br>
-
-<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">&nbsp;&nbsp; **Note**: <br>
-&nbsp;&nbsp;Figma can also be **[downloaded](https://www.figma.com/downloads/)** locally on your computer or on mobile. 
+  
+<div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: black" >
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true"><strong>Note:</strong> <br>
+Figma can also be **[downloaded](https://www.figma.com/downloads/)** locally on your computer or on mobile. 
+</div>
+<br>  
 
 Although, Figma works on most operating systems that runs a browser. These operating systems include those of Macs, Linux machines, Windows, and even ChromeOS. 
 
@@ -68,10 +71,12 @@ Although, Figma works on most operating systems that runs a browser. These opera
 ## Document Overview
   
  1. Pages vs Frames
- 2. Community Files & Plug In Features
- 3. Components & Instances
- 4. Prototyping Elements
- 5. Exporting & Finalizing Mockups
+ 2. Adding Text Content
+ 3. Components and Instances
+ 4. Community Files & Plug In Features
+ 5. Prototyping Elements
+ 6. Troubleshooting
+ 7. Glossary
   
 ---
   
@@ -79,18 +84,28 @@ Although, Figma works on most operating systems that runs a browser. These opera
   
 <br>
   
-<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/512/1680/1680214.png" alt="warning-icon-png"> &nbsp;&nbsp;**Warning**: <br>
-&nbsp;&nbsp;The icon signifies that the following text must be read before proceeding.
+<div style="background-color: #ac0437; padding: 14px; border-radius: 4px; color: white" >
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/512/1680/1680214.png" alt="note-icon-png?raw=true"><strong>Warning:</strong> <br>
+The icon signifies that the following text must be read before proceeding.
+</div>
+<br>    
 
 <br>
 
-<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">&nbsp;&nbsp; **Note**: <br>
-&nbsp;&nbsp;The icon signifies that the following text is an additional information or tips.
+<div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: black" >
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true"><strong>Note:</strong> <br>
+The icon signifies that the following text is an additional information or tips.
+</div>
+<br>  
   
 <br>
   
-<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" alt="note-icon-png">&nbsp;&nbsp; **Success**: <br>
-&nbsp;&nbsp;The icon signifies that you've successfully reached the goal of the step.
+
+<div style="background-color: #c1e2be; padding: 14px; border-radius: 4px; color: black" >
+<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png?raw=true" alt="note-icon-png"> <strong> Success: </strong> <br>
+The icon signifies that you've successfully reached the goal of the step.
+</div>  
+  
   
 <br>
 
