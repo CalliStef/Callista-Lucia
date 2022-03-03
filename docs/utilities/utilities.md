@@ -124,8 +124,8 @@ Rename the group name from “Group 1” to “log-in button.”
 
 <br>
 
-<div style="background-color: #ffb347" >
-<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png?raw=true" alt="note-icon-png">&nbsp;&nbsp; **Note**: <br>
+<div style="background-color: #ffb347; padding: 2px; border-radius: 4px; color: white" >
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png?raw=true" alt="note-icon-png">&nbsp;&nbsp; <strong>Note:</strong> <br>
 &nbsp;&nbsp; When multiple elements are grouped together, to select them individually, you will have to double click on the element.
 </div>
 <br>
