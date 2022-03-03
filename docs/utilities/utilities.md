@@ -124,10 +124,11 @@ Rename the group name from “Group 1” to “log-in button.”
 
 <br>
 
-<div style="background-color: #ffb347; padding: 2px; border-radius: 4px; color: white" >
-<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png?raw=true" alt="note-icon-png">&nbsp;&nbsp; <strong>Note:</strong> <br>
-&nbsp;&nbsp; When multiple elements are grouped together, to select them individually, you will have to double click on the element.
+<div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: white" >
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png?raw=true" alt="note-icon-png"> <div style="float: left"><strong>Note:</strong></div> <br>
+When multiple elements are grouped together, to select them individually, you will have to double click on the element.
 </div>
+
 <br>
 
 Change the text of the second group to “Sign up.”
