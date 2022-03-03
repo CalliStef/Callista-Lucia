@@ -195,14 +195,14 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 **4.** So far, the two frames should look like the image below.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img4.png?raw=true" width="600" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img4.png?raw=true" width="450" />
 </div>
 <br>
 
 **5.** In the “Login” frame, add another text box and type “Mori is a simple To Do List app designed to keep you organized and productive!”, pressing enter after the spaces in the words “list”, “you”, and “productive!”.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img5.png?raw=true" width="300" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img5.png?raw=true" width="250" />
 </div>
 <br>
 
@@ -238,7 +238,7 @@ Text Properties            |  Dimension Properties
 **7.** Change the color of the whole paragraph to “414141” but give the word “Mori” the color “FF7461”. The result should look like the figure below. Refer to Task 2.2 for assistance.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img7.png?raw=true" width="400" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img7.png?raw=true" width="300" />
 </div>
 <br>
 
@@ -255,14 +255,11 @@ Text Properties            |  Dimension Properties
 </div>
 <br>
 
-
 <img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" alt="note-icon-png">&nbsp;&nbsp; **Success**: <br>
 &nbsp;&nbsp;  Your final result should look like this:
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img10.png?raw=true" width="650" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img10.png?raw=true" width="600" />
 </div>
-
-<br>
 
 <br>
