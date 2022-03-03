@@ -77,7 +77,7 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 **4.** Again in the **Text** section, click on the word “Regular” to see the other options. Select the option “Bold”.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img4.png?raw=true" height:"500" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img4.png?raw=true" height="500" />
 </div>
 <br>
 
