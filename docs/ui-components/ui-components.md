@@ -218,9 +218,9 @@ the text will likely not fit within the frame until we change the properties
 
 <div align="center">
   
- Text Properties             |  Dimension Properties
+ Text Properties           |  Dimension Properties
 :-------------------------:|:-------------------------:
- <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img6_1.png?raw=true" width="330" /> |  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img6_2.png?raw=true" width="330" />
+ <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img6_1.png?raw=true" width="330" />  |  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img6_2.png?raw=true" width="330" />
 
 </div>
 <br>
@@ -234,11 +234,28 @@ the text will likely not fit within the frame until we change the properties
 
 **7.** Change the color of the whole paragraph to “414141” but give the word “Mori” the color “FF7461”. The result should look like the figure below. Refer to Task 2.2 for assistance.
 
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img7.png?raw=true" width="400" />
+</div>
+<br>
+
 **8.** In the “User Dashboard” frame, add a text box with the text “Tasks for Today” and give it the following properties:
 
 **9.** Change the color property to “414141”. Then, select the word “Today” and set its color property to “FF7461”. Refer to Task 2.2 for assistance.
 
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img9.png?raw=true" width="400" />
+</div>
+<br>
+
+
 <img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" alt="note-icon-png">&nbsp;&nbsp; **Success**: <br>
 &nbsp;&nbsp;  Your final result should look like this:
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img10.png?raw=true" width="650" />
+</div>
+
+<br>
 
 <br>
