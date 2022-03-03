@@ -74,7 +74,7 @@ Make sure your results are from the Files section.
 
 ## Task 3.2 - Placing the Downloaded Content into your Mockup
 
-**1.** From your new workspace, _double click_ on the first character on the first frame until a blue border wraps around it, as shown below.
+**1.** From your new workspace, _double click_ on the first vector illustration on the first frame until a blue border wraps around it, as shown below.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.2_img1.png?raw=true" width="450" />
