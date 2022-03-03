@@ -121,35 +121,35 @@ Make sure the blue border wraps around all parts of the illustration, not just p
 
 Man Walking Vector             |  Woman Standing Vector     |  Man Sitting Vector  
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img1_1.png?raw=true" width="200" /> |  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img1_2.png?raw=true" width="200" /> | <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img1_3.png?raw=true" width="200" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img1_1.png?raw=true" width="100" /> |  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img1_2.png?raw=true" width="100" /> | <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img1_3.png?raw=true" width="100" />
 
 <br>
 
 **2.** Select the illustration of the woman standing and give her the following properties.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img2.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img2.png?raw=true" width="350" />
 </div>
 <br>
 
 **3.** Select the illustration of the man sitting down and give him the following properties.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img3.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img3.png?raw=true" width="350" />
 </div>
 <br>
 
 **4.** Select the illustration of the man walking and give him the following properties
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img4.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img4.png?raw=true" width="350" />
 </div>
 <br>
 
 **5.** Your “User Dashboard” frame should look like the image below.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img5.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img5.png?raw=true" width="300" />
 </div>
 <br>
 
