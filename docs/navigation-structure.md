@@ -153,3 +153,6 @@ Man Walking Vector             |  Woman Standing Vector     |  Man Sitting Vecto
 </div>
 <br>
 
+## Task 3.4 - Downloading Iconify Figma Plugin
+
+**1.** 
