@@ -70,10 +70,10 @@ Although, Figma works on most operating systems that runs a browser. These opera
   
 ## Document Overview
   
- 1. Pages vs Frames
- 2. Adding Text Content
+ 1. Creating & Using Frame
+ 2. Adding Content in Figma
  3. Components and Instances
- 4. Community Files & Plug In Features
+ 4. Implementing Figma Community Files & Plugins
  5. Prototyping Elements
  6. Troubleshooting
  7. Glossary
@@ -96,7 +96,7 @@ The icon signifies that the following text must be read before proceeding.
 <img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true"><strong>Note:</strong> <br>
 The icon signifies that the following text is an additional information or tips.
 </div>
-<br>  
+ 
   
 <br>
   
