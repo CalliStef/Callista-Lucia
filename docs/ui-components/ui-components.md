@@ -144,8 +144,8 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 <img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
 
 **Note**:
-&nbsp;&nbsp;
-these numbers may be different from yours.
+&nbsp;&nbsp;these numbers may be different from yours.
+
 <br>
 
 **2.** Click on the **X** value and type “39”.
@@ -197,8 +197,9 @@ the text will likely not fit within the frame until we change the properties
 <img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
 
 **Note**:
-&nbsp;&nbsp;
-the Width (**W**) and Height (**H**) properties may differ from the image above.
+&nbsp;&nbsp; The Width (**W**) and Height (**H**) properties may differ from the image above.
+
+<br>
 
 **7.** Change the color of the whole paragraph to “414141” but give the word “Mori” the color “FF7461”. The result should look like the figure below. Refer to Task 2.2 for assistance.
 
