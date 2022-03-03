@@ -61,6 +61,7 @@ Figma has a very convenient feature that allows its users to download other prog
 **Note**:
 &nbsp;&nbsp;
 make sure your results are from the Files section.
+<br>
 
 **6.** Click on the “Duplicate” button. This will open a new tab and redirect you to a new figma file with the contents from the file available to you. 
 
@@ -83,6 +84,8 @@ make sure your results are from the Files section.
 **Note**:
 &nbsp;&nbsp;
 Make sure the blue border wraps around all parts of the illustration, not just part of it.
+
+<br>
 
 **2.** Right click on your selection, and select the “Copy” option. 
 
@@ -125,28 +128,28 @@ Man Walking Vector             |  Woman Standing Vector     |  Man Sitting Vecto
 **2.** Select the illustration of the woman standing and give her the following properties.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img6.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img2.png?raw=true" width="450" />
 </div>
 <br>
 
 **3.** Select the illustration of the man sitting down and give him the following properties.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img6.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img3.png?raw=true" width="450" />
 </div>
 <br>
 
 **4.** Select the illustration of the man walking and give him the following properties
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img6.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img4.png?raw=true" width="450" />
 </div>
 <br>
 
 **5.** Your “User Dashboard” frame should look like the image below.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img6.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.3_img5.png?raw=true" width="450" />
 </div>
 <br>
 
