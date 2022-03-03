@@ -166,7 +166,7 @@ Now that we’ve prototyped our mockup, let’s see how it works! There are two 
 
 <br>
 <div align="center">
-  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/11_prototype_present_method1.png?raw=true" alt="present_method_1_at_far_right_of_toolbar" width="400" height="50">
+  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/11_prototype_present_method1.png?raw=true" alt="present_method_1_at_far_right_of_toolbar" width="300" height="50">
 </div> 
 <br>
 
@@ -182,9 +182,13 @@ Your mockup now should work the same way as the video below!
 
 <br>
 
-<video width="320" height="240" autoplay loop>
-  <source src="mhttps://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.mp4?raw=true" type="video/mp4" />
+<!-- <video width="320" height="240" autoplay loop>
+  <source src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.mp4" type="video/mp4" />
   Your browser does not support the video tag.
+</video> -->
+
+<video src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/13_prototype_mockup_complete_vid.mp4" autoplay loop>
+Your browser does not support the video tag
 </video>
 
 <br>
