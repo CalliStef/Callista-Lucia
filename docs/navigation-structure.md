@@ -119,7 +119,7 @@ Make sure the blue border wraps around all parts of the illustration, not just p
 
 ## Task 3.3 - Continuing to Add Illustrations
 
-**1.** Return to the “Vector Character Illustrations” Figma and select the following illustrations one by one, _pasting_ them back onto your Mockup File onto the “User Dashboard” frame. Reference Task 3.2 for assistance.
+**1.** Return to the “Vector Character Illustrations” Figma and select the following illustrations one by one, _pasting_ them back onto your **Mockup File** onto the “User Dashboard” frame. Reference Task 3.2 for assistance.
 
 Man Walking Vector             |  Woman Standing Vector     |  Man Sitting Vector  
 :-------------------------:|:-------------------------:|:-------------------------:
