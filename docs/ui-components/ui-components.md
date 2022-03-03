@@ -145,7 +145,6 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 
 **Note**:
 &nbsp;&nbsp;
-
 these numbers may be different from yours.
 <br>
 
@@ -170,3 +169,44 @@ these numbers may be different from yours.
 <br>
 
 
+## Task 2.5 - Additional Text Content
+
+**1.** In the “User Dashboard” frame, add another text box by using the **Text** tool and clicking anywhere on the frame. Type the sentence “Welcome Back!”
+
+**2.** Set its properties in the **Design panel** to be the same as the ones in the figure below. Refer to Task 2.1 and Task 2.2 for assistance.
+
+**3.** Set its position in the **Design Panel** to be the same as the values in the figure below. Refer to Task 2.3 for assistance.
+
+**4.** So far, the two frames should look like the image below.
+
+**5.** In the “Login” frame, add another text box and type “Mori is a simple To Do List app designed to keep you organized and productive!”, pressing enter after the spaces in the words “list”, “you”, and “productive!”.
+
+
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
+
+**Note**:
+&nbsp;&nbsp;
+the text will likely not fit within the frame until we change the properties
+
+<br>
+
+**6.**  Give it the following Text and Design properties. Refer to Task 2.1 and Task 2.3 for assistance.
+
+
+
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
+
+**Note**:
+&nbsp;&nbsp;
+the Width (**W**) and Height (**H**) properties may differ from the image above.
+
+**7.** Change the color of the whole paragraph to “414141” but give the word “Mori” the color “FF7461”. The result should look like the figure below. Refer to Task 2.2 for assistance.
+
+**8.** In the “User Dashboard” frame, add a text box with the text “Tasks for Today” and give it the following properties:
+
+**9.** Change the color property to “414141”. Then, select the word “Today” and set its color property to “FF7461”. Refer to Task 2.2 for assistance.
+
+<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" alt="note-icon-png">&nbsp;&nbsp; **Success**: <br>
+&nbsp;&nbsp;  Your final result should look like this:
+
+<br>
