@@ -56,11 +56,13 @@ Figma has a very convenient feature that allows its users to download other prog
 </div>
 <br>
 
-<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
 
-**Note**:
-&nbsp;&nbsp;make sure your results are from the Files section.
-<br>
+<div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: black" >
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true"><strong>Note:</strong> <br>
+Make sure your results are from the Files section.
+</div>
+
+
 <br>
 
 **6.** Click on the “Duplicate” button. This will open a new tab and redirect you to a new figma file with the contents from the file available to you. 
@@ -79,11 +81,11 @@ Figma has a very convenient feature that allows its users to download other prog
 </div>
 <br>
 
-<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
-
-**Note**:
-&nbsp;&nbsp;
+<div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: black" >
+<img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true"><strong>Note:</strong> <br>
 Make sure the blue border wraps around all parts of the illustration, not just part of it.
+</div>
+
 
 <br>
 
@@ -186,10 +188,22 @@ Man Walking Vector             |  Woman Standing Vector     |  Man Sitting Vecto
 </div>
 <br>
 
-<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" alt="note-icon-png">&nbsp;&nbsp; **Success**:
-&nbsp;&nbsp;  Congratulations! You have installed the Plugin and downloaded a Community File!
+
+<div style="background-color: #c1e2be; padding: 14px; border-radius: 4px; color: black" >
+<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png?raw=true" alt="note-icon-png"> <strong> Success: </strong> <br>
+Congratulations! You have installed the Plugin and downloaded a Community File!
+</div>  
+  
 
 <br>
 
+---
 
+# Conclusion
+
+By the end of this section, you have now learned the following:
+1. Download illustrations from the community files
+2. Applying plugins onto your mockup.
+
+Congratulations! We are now close to finish with our mockup, just one more step! Go to the next page to learn how we prototype our mockup.
 
