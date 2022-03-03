@@ -216,7 +216,7 @@ The text will likely not fit within the frame until we change the properties.
 
 <br>
 
-**5.6**  Give it the following **Text** and **Design** properties. Refer to [Task 2](#task-2---text-box-properties) and [Task 3](#task-3---changing-text-colors) for assistance.
+**5.6**  Give it the following **Text** and **Design** properties. Refer to [Task 2](#task-2---text-box-properties) and [Task 4](#task-4---adjusting-the-text-box-position) for assistance.
 
   
 Text Properties            |  Dimension Properties
@@ -232,20 +232,20 @@ Text Properties            |  Dimension Properties
 
 <br>
 
-**5.7** Change the color of the whole paragraph to “414141” but give the word “Mori” the color “FF7461”. The result should look like the figure below. Refer to Task 2.2 for assistance.
+**5.7** Change the color of the whole paragraph to “414141” but give the word “Mori” the color “FF7461”. The result should look like the figure below. Refer to [Task 3](#task-3---changing-text-colors) for assistance.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img7.png?raw=true" height="700" />
 </div>
 <br>
 
-**5.8** In the “User Dashboard” frame, _add_ a text box with the text “Tasks for Today” and give it the following properties:
+**5.8** In the “User Dashboard” frame, _add_ a text box with the text “Tasks for Today” and give it the following properties.
 
 Text Properties            |  Dimension Properties
 :-------------------------:|:-------------------------:
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img8.png?raw=true" width="250" /> |  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img8_2.png?raw=true" width="250" />
 
-**5.9** Change the color property to “414141”. Then, select the word “Today” and set its color property to “FF7461”. Refer to Task 2.2 for assistance.
+**5.9** Change the color property to “414141”. Then, select the word “Today” and set its color property to “FF7461”. Refer to [Task 3](#task-3---changing-text-colors) for assistance.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img9.png?raw=true" width="400" />
@@ -260,7 +260,7 @@ Your final result should look like this:
 <br>
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img10.png?raw=true" width="600" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img10.png?raw=true" width="550" />
 </div>
 
 
@@ -269,7 +269,7 @@ Your final result should look like this:
 # Conclusion
 
 By the end of this section, you have now learned the following:
-1. Utilizing the Text Tool
+1. Utilizing the **Text** Tool
 2. Using the text box properties and adjusting it's position
 3. Applying design to the text
 
