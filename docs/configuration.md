@@ -101,7 +101,7 @@ Typing            |  Confirmed Name Change
 </div>
 <br>
 
-**3.3** Reference the instructions from Task 1.2 to rename the duplicated frame as “User Dashboard”.
+**3.3** Reference the instructions from [Task 2](#Task-2---Renaming-a-Frame) to rename the duplicated frame as “User Dashboard”.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1.3_img3.png?raw=true" height="350" width=auto />
