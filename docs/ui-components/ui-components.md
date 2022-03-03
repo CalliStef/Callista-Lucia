@@ -265,3 +265,14 @@ Your final result should look like this:
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img10.png?raw=true" width="600" />
 </div>
 
+
+---
+
+# Conclusion
+
+By the end of this section, you have now learned the following:
+1. Utilizing the Text Tool
+2. Using the text box properties and adjusting it's position
+3. Applying design to the text
+
+Congratulations! On the next page, we will be going over how to create components and instances in Figma! You definitely don't want to miss it! 😆
