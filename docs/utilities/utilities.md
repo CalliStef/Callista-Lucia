@@ -274,7 +274,7 @@ Here's the final look of our task list!
 <br>
 
 <br>
-<div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: black" >
+
 <div style="background-color: #c1e2be; padding: 14px; border-radius: 4px; color: black" >
 <img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png?raw=true" alt="note-icon-png"> <strong> Success: </strong> <br>
 You’ve successfully created many components as well as instances for your Mockup! Your mockup should now look similar to the image below.
