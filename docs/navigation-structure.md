@@ -25,26 +25,26 @@ Figma has a very convenient feature that allows its users to download other prog
 **1.** On the **Navigation bar**, click on the first icon (highlighted in blue in the image below) to open up the **Main Menu** options.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img1.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img1.png?raw=true" width="450" />
 </div>
 <br>
 
 **2.** Select the “Plugins” option
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img1.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img2.png?raw=true" width="450" />
 </div>
 <br>
 
 **3.** Click “Browse plugins in Community”. This will redirect you to the **Community Page** on Figma.
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img1.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img3.png?raw=true" width="450" />
 </div>
 <br>
 
 **4.** In the **Search Bar**, type in “Vector character illustrations” and press `Enter` on your keyboard to confirm.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img1.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img4.png?raw=true" width="450" />
 </div>
 <br>
 
@@ -52,7 +52,7 @@ Figma has a very convenient feature that allows its users to download other prog
 **5.** Select the first result returned made by user “Pavan Kondapuram”.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img1.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img5.png?raw=true" width="450" />
 </div>
 <br>
 
@@ -65,7 +65,7 @@ make sure your results are from the Files section.
 **6.** Click on the “Duplicate” button. This will open a new tab and redirect you to a new figma file with the contents from the file available to you. 
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.1_img1.png?raw=true" width="450" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.1_img6.png?raw=true" width="450" />
 </div>
 <br>
 
