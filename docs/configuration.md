@@ -54,99 +54,59 @@ Frames are one of the most foundational elements of Figma. They can serve as the
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1img4.png?raw=true" height="600" width=auto />
 </div>
+<br>
 
 ## Task 1.2 - Renaming a Frame
 
 **1.** Right click on the name of the desired frame on the left-side panel to activate its context menu. The name should have a blue background color once selected.
 
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img1.png?raw=true" height="250" />
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img1.png?raw=true" height="250" width=auto />
+</div>
+<br>
 
 **2.** Select the Rename option highlighted below. 
 
-![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img2.png?raw=true)
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img2.png?raw=true" height="350" width=auto />
+</div>
+<br>
 
 **3.** Type “Login” for the first frame and click enter to confirm the change.
 
+<div align="center" height="200">
+ 
 Typing             |  Confirmed Name Change
 :-------------------------:|:-------------------------:
 ![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3.png?raw=true)  |  ![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3_2.png?raw=true)
  
+</div>
+<br>
 
 ## Task 1.3 - Duplicating a Frame
 
 **1.** Right click on the “Login” frame itself, making sure a blue border forms around the frame. Then, click the first option “Copy”.
 
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1.3_img1.png?raw=true" height="350" width=auto />
+</div>
+<br>
+
 **2.** Right click on an area off of the frame and select the option “Paste here”.
 
-## Color scheme
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1.3_img2.png?raw=true" height="250" width=auto />
+</div>
+<br>
 
-```yaml
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-```
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+**3.** Reference the instructions from Task 1.2 to rename the duplicated frame as “User Dashboard”.
 
-<script>
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1.3_img3.png?raw=true" height="350" width=auto />
+</div>
+<br>
 
-jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'dark') {
-    jtd.setTheme('light');
-    toggleDarkMode.textContent = 'Preview dark color scheme';
-  } else {
-    jtd.setTheme('dark');
-    toggleDarkMode.textContent = 'Return to the light side';
-  }
-});
-</script>
+<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" alt="note-icon-png">&nbsp;&nbsp; **Success**: <br>
+&nbsp;&nbsp;  Your final result should look like the image above.
 
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
-
-## Document collections
-
-By default, the navigation and search include normal [pages](https://jekyllrb.com/docs/pages/).
-Instead, you can also use [Jekyll collections](https://jekyllrb.com/docs/collections/) which group documents semantically together.
-
-For example, put all your documentation files in the `_docs` folder and create the `docs` collection:
-```yaml
-# Define Jekyll collections
-collections:
-  # Define a collection named "docs", its documents reside in the "_docs" directory
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  # Define which collections are used in just-the-docs
-  collections:
-    # Reference the "docs" collection
-    docs:
-      # Give the collection a name
-      name: Documentation
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
-```
-
-You can reference multiple collections.
-This creates categories in the navigation with the configured names.
-```yaml
-collections:
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-  tutorials:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
-    tutorials:
-      name: Tutorials
-```
-
+<br>
