@@ -218,9 +218,12 @@ the text will likely not fit within the frame until we change the properties
 
 <div align="center">
   
- Text Properties           |  Dimension Properties
+Text Properties            |  Dimension Properties
 :-------------------------:|:-------------------------:
- <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img6_1.png?raw=true" width="330" />  |  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img6_2.png?raw=true" width="330" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img6_1.png?raw=true" width="250" /> |  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img6_1.png?raw=true" width="250" />
+
+
+<br>
 
 </div>
 <br>
@@ -240,6 +243,10 @@ the text will likely not fit within the frame until we change the properties
 <br>
 
 **8.** In the “User Dashboard” frame, add a text box with the text “Tasks for Today” and give it the following properties:
+
+Text Properties            |  Dimension Properties
+:-------------------------:|:-------------------------:
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img7.png?raw=true" width="250" /> |  <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img7_2.png?raw=true" width="250" />
 
 **9.** Change the color property to “414141”. Then, select the word “Today” and set its color property to “FF7461”. Refer to Task 2.2 for assistance.
 
