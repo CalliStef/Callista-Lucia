@@ -121,7 +121,7 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 **4.** Change its **Fill** color by clicking on the numbers “414141” again and typing in “FF7461”.  
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img4.png?raw=true" width="400" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img4.png?raw=true" width="300" />
 </div>
 <br>
 
@@ -173,14 +173,38 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 
 **1.** In the “User Dashboard” frame, add another text box by using the **Text** tool and clicking anywhere on the frame. Type the sentence “Welcome Back!”
 
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.4_img1.png?raw=true" width="330" />
+</div>
+<br>
+
 **2.** Set its properties in the **Design panel** to be the same as the ones in the figure below. Refer to Task 2.1 and Task 2.2 for assistance.
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img2.png?raw=true" width="330" />
+</div>
+<br>
 
 **3.** Set its position in the **Design Panel** to be the same as the values in the figure below. Refer to Task 2.3 for assistance.
 
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img3.png?raw=true" width="330" />
+</div>
+<br>
+
 **4.** So far, the two frames should look like the image below.
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img4.png?raw=true" width="600" />
+</div>
+<br>
 
 **5.** In the “Login” frame, add another text box and type “Mori is a simple To Do List app designed to keep you organized and productive!”, pressing enter after the spaces in the words “list”, “you”, and “productive!”.
 
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img5.png?raw=true" width="300" />
+</div>
+<br>
 
 <img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
 
@@ -190,9 +214,16 @@ the text will likely not fit within the frame until we change the properties
 
 <br>
 
-**6.**  Give it the following Text and Design properties. Refer to Task 2.1 and Task 2.3 for assistance.
+**6.**  Give it the following **Text** and **Design** properties. Refer to Task 2.1 and Task 2.3 for assistance.
 
+<div align="space-around">
+  
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img6_1.png?raw=true" width="330" />
+ 
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.5_img6_2.png?raw=true" width="330" />
 
+</div>
+<br>
 
 <img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png">
 
