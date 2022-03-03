@@ -74,9 +74,10 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 </div>
 <br>
 
-**4.** Click on the word “Regular” to open its context menu. Select the option “Bold”.
+**4.** Again in the **Text** section, click on the word “Regular” to see the other options. Select the option “Bold”.
+
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img4.png?raw=true" width="500" />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img4.png?raw=true" height:"500" />
 </div>
 <br>
 
@@ -97,4 +98,38 @@ Press the Enter  key on your keyboard after the words “your” and “better�
 ## Task 2.3 - Changing Text Colors
 
 **1.** Within the **Design Panel**, inside of the **Fill** section, click on the numbers "000000" next to the black square shown below.
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img1.png?raw=true" width="350" />
+</div>
+<br>
+
+**2.** Type the number “414141” to change the text color. Press `Enter` to confirm the change.
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img2.png?raw=true" width="600" />
+</div>
+<br>
+
+**3.** Double click on our current text box to edit the text contents, and select the word “Mori”. 
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img3.png?raw=true" width="400" />
+</div>
+<br>
+
+**4.** Change its **Fill** color by clicking on the numbers “414141” again and typing in “FF7461”.  
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img4.png?raw=true" width="400" />
+</div>
+<br>
+
+**5.** Your sentence should now look like the image below. 
+
+<div align="center">
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img5.png?raw=true" width="400" />
+</div>
+<br>
+
 
