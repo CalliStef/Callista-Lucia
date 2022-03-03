@@ -232,7 +232,7 @@ Your rectangular box should look like the image below.
 
 <div style="background-color: #ffdfbf; padding: 14px; border-radius: 4px; color: black" >
 <img align="left" width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/3209/3209265.png" alt="note-icon-png?raw=true"><strong>Note:</strong> <br>
-&nbsp;&nbsp; Notice how Figma has now highlighted your element in purple? This means, that your element is now a **main component**.
+&nbsp;&nbsp; Notice how Figma has now highlighted your element in purple? This means, that your element is now a <strong>main component</strong>.
 </div>
 <br>
 
