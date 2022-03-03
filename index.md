@@ -71,10 +71,10 @@ Although, Figma works on most operating systems that runs a browser. These opera
   
 ## Document Overview
   
- 1. Creating & Using Frame
+ 1. Creating & Using Frames
  2. Adding Content in Figma
  3. Components and Instances
- 4. Implementing Figma Community Files & Plugins
+ 4. Community Files & Plugins
  5. Prototyping Elements
  6. Troubleshooting
  7. Glossary
