@@ -52,7 +52,7 @@ Frames are one of the most foundational elements of Figma. They can serve as the
 **4.** Your work area should now have a frame that looks like the one in the figure below.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1img4.png?raw=true" height="500" width=auto />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1img4.png?raw=true" width="450" />
 </div>
 <br>
 
@@ -78,7 +78,7 @@ Frames are one of the most foundational elements of Figma. They can serve as the
  
 Typing             |  Confirmed Name Change
 :-------------------------:|:-------------------------:
-![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3.png?raw=true) | ![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3_2.png?raw=true)
+![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3.png?raw=true) |  ![image](https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1_2_img3_2.png?raw=true)
  
 </div>
 <br>
@@ -88,14 +88,14 @@ Typing             |  Confirmed Name Change
 **1.** Right click on the “Login” frame itself, making sure a blue border forms around the frame. Then, click the first option “Copy”.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1.3_img1.png?raw=true" height="300" width=auto />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1.3_img1.png?raw=true" height="250" width=auto />
 </div>
 <br>
 
 **2.** Right click on an area off of the frame and select the option “Paste here”.
 
 <div align="center">
-<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1.3_img2.png?raw=true" height="250" width=auto />
+<img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task1.3_img2.png?raw=true" height="200" width=auto />
 </div>
 <br>
 
