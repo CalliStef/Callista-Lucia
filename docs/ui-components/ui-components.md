@@ -76,7 +76,7 @@ While not a feature unique to Figma, it is important to be able to add actual co
 </div>
 <br>
 
-**2.4** Again in the **Text** section, _click_ on the word “Regular” to see the other options. _Click_ on the option “Bold”.
+**2.4** Again in the **Text** section, _click_ on the word “Regular” to see the other options. Then, _click_ on the option “Bold”.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.2_img4.png?raw=true" height="500" />
@@ -120,7 +120,7 @@ While not a feature unique to Figma, it is important to be able to add actual co
 </div>
 <br>
 
-**3.4** Change its **Fill** color by _clicking_ on the numbers “414141” again and _typing_ in “FF7461”.  
+**3.4** Change its **Fill** color by _clicking_ on the numbers “414141” again and _typing_ “FF7461”.  
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task2.3_img4.png?raw=true" width="300" />
