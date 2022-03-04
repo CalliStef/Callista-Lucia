@@ -65,7 +65,8 @@ Although, Figma works on most operating systems that runs a browser. These opera
 | Figma Tools  | **bold**  |  **Frame**, **Design a Prototype**, **Text** | 
 | Action Items  | *Italics*  | *click*, *hold*, *drag*  | 
 | Text on Screen | "quotes" | "Login", "Paste here", "Plugins" |  
-| Keyboard Press | `Keyboard-press` | `Enter`
+| Keyboard Press | `Keyboard-press` | `Enter` |
+| Linked to Heading | [this links to a section](#) | [Task 1](#) |
   
 ---
   
