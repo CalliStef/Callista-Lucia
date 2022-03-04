@@ -157,7 +157,7 @@ Man Walking Vector             |  Woman Standing Vector     |  Man Sitting Vecto
 
 ## Task 4 - Downloading Iconify Figma Plugin
 
-**4.1** Once again, access the **Main Menu** options by _clicking_ on the first icon in the **Navigation Menu**, and select "Plugins", and then "Browse Plugins in Community". Reference Task 3.1 for assistance.
+**4.1** Once again, access the **Main Menu** options by _clicking_ on the first icon in the **Navigation Menu**, and select "Plugins", and then "Browse Plugins in Community". Reference [Task 1](#task-1---downloading-illustrations-from-figma-community-files) for assistance.
 
 <div align="center">
 <img src="https://github.com/CalliStef/Callista-Lucia/blob/gh-pages/assets/images/task3.4_img1.png?raw=true" width="400" />
